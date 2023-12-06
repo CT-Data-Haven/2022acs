@@ -38,7 +38,7 @@ website/5year$(YR)town_profile_expanded_CWS.csv: scripts/05_assemble_for_distro.
 	$(RUN_R)
 
 #### SCRIPTS ----
-scripts/%.R: utils/pkgs_utils.R
+scripts/*.R: utils/pkgs_utils.R
 
 scripts/01_fetch_acs_data.R: utils/reg_puma_list.rds
 
@@ -55,7 +55,7 @@ scripts/05_assemble_for_distro.R: utils/$(YR)_website_meta.rds \
 .PHONY: release
 release: utils/upload_gh_release.sh
 
-utils/upload_gh_release.sh:
+utils/upload_gh_release.sh: output_data/acs_town_basic_profile_$(YR).rds
 	bash $@
 
 #### CLEANUP ----

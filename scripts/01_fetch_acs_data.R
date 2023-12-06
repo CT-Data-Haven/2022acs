@@ -20,9 +20,9 @@ regions <- reg_puma_list[!names(reg_puma_list) %in% pumas & !grepl("COG", names(
 fetch <- purrr::map(basic_table_nums, multi_geo_acs, year = yr, survey = "acs1",
            towns = "all", 
            regions = regions,
-           # pumas = pumas,
-           # neighborhoods = nhood_lookup,
-           # tracts = "all", 
+           pumas = pumas,
+           neighborhoods = nhood_lookup,
+           tracts = "all",
            us = TRUE,
            sleep = 1) %>%
   purrr::modify_at("median_income", mutate, 

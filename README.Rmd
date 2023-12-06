@@ -50,7 +50,7 @@ You can supply the years to `make`; calling `make testvars` will verify what yea
 
 
 ```{bash include=FALSE}
-makefile2dot -d RL | dot -Tpng -o make.png
+makefile2dot -d BT | dot -Tpng -o make.png -Nfontname=monospace
 ```
 
 ![makefile](make.png)
