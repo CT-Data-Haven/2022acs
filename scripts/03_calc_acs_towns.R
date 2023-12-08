@@ -1,3 +1,5 @@
+# reads fetch_data/acs_basic_yr_fetch_all.rds, utils/indicator_headings.txt
+# writes output_data/acs_town_basic_profile_yr.csv, output_data/acs_town_basic_profile_yr.rds, to_distro/town_acs_basic_distro_yr.csv
 source("utils/pkgs_utils.R")
 
 ##################### VARIABLES ###############################################

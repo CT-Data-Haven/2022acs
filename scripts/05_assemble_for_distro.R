@@ -1,3 +1,5 @@
+# read utils/yr_website_meta.rds, utils/indicator_headings.txt, output_data/acs_town_basic_profile_yr.rds, output_data/cws_basic_indicators_yr.rds
+# writes website/5yearyrtown_profile_expanded_CWS.csv
 source("utils/pkgs_utils.R")
 
 ##################### VARIABLES ###############################################

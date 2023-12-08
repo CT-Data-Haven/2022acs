@@ -1,3 +1,5 @@
+# reads utils/reg_puma_list.rds
+# writes fetch_data/acs_basic_yr_fetch_all.rds
 source("utils/pkgs_utils.R")
 ######################################## LOOKUPS ###############################----
 # include pumas that aren't counties, all tracts, neighborhoods, us, msas
@@ -7,7 +9,7 @@ nhood_lookup <- tibble::lst(bridgeport_tracts, hartford_tracts, new_haven_tracts
   bind_rows(.id = "city") %>%
   mutate(city = camiller::clean_titles(city, cap_all = TRUE)) %>%
   tidyr::unite(name, city, name) %>%
-  select(name, geoid, weight)
+  select(name, geoid_cog, weight)
 
 # no longer need PUMAs as regions--cwi can call them
 # also keep out COGs
@@ -17,11 +19,12 @@ regions <- reg_puma_list[!names(reg_puma_list) %in% pumas & !grepl("COG", names(
 
 ######################################## FETCH #################################----
 # drop medians for aggregated regions
-fetch <- purrr::map(basic_table_nums, multi_geo_acs, year = yr, survey = "acs1",
+fetch <- purrr::map(basic_table_nums, multi_geo_acs, year = yr, survey = "acs5",
            towns = "all", 
            regions = regions,
            pumas = pumas,
            neighborhoods = nhood_lookup,
+           nhood_geoid = "geoid_cog",
            tracts = "all",
            us = TRUE,
            sleep = 1) %>%

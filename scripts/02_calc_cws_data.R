@@ -1,3 +1,5 @@
+# reads nothing local
+# writes output_data/cws_basic_indicators_2021.rds
 source("utils/pkgs_utils.R")
 
 out <- list()

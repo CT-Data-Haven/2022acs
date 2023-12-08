@@ -1,3 +1,5 @@
+# reads nothing local
+# writes utils/yr_website_meta.rds, utils/reg_puma_list.rds
 source("utils/pkgs_utils.R")
 
 ######################################## ACS METADATA ##########################----
@@ -20,11 +22,12 @@ geos <- openxlsx::read.xlsx(str_glue("https://www2.census.gov/programs-surveys/p
   as_tibble() %>%
   rename_with(~str_remove(., "\\(.*$")) %>%
   janitor::clean_names() %>%
-  rename_with(~str_remove(., "_code$")) %>%
+  rename_with(~str_remove(., "_fips_code$")) %>%
   filter(state == "09", 
          summary_level %in% c("040", "050", "061")) %>%
   mutate(area_name = str_remove(area_name, " town"),
          summary_level = str_sub(summary_level, 1, 2) %>% str_pad(7, "right", "0")) %>%
+  mutate(area_name = stringr::str_replace(area_name, "Planning Region", "COG")) |>
   select(summary_level:county_subdivision, name = area_name) %>%
   mutate(us = "US") %>%
   select(summary_level, us, everything()) %>%
@@ -38,8 +41,7 @@ base_url <- "https://data.census.gov/cedsci/table"
 # add g = geo code, table = DP02, tid ACSDP5Y2018.DP03
 base_q <- list(vintage = yr, d = "ACS 5-Year Estimates Data Profiles")
 
-urls <- nest_join(geos, dps, by = character()) %>%
-  tidyr::unnest(dps) %>%
+urls <- cross_join(geos, dps) %>%
   mutate(tid = str_glue("ACSDP5Y{yr}.{group}")) %>%
   mutate(q = purrr::pmap(list(table = group, g = code, tid = tid), c, base_q),
          url = purrr::map_chr(q, ~httr::modify_url(base_url, query = .))) %>%
@@ -59,13 +61,21 @@ moe <- dcws::cws_max_moe %>%
 old_prof <- readr::read_csv("https://raw.githubusercontent.com/CT-Data-Haven/2019acs/main/output_data/5year2019town_profile_expanded_CWS.csv", show_col_types = FALSE) %>%
   filter(!is.na(`Key Facts`))
 
-meta <- old_prof %>%
+sections <- old_prof %>%
   select(where(not_digits), -matches("Characteristics")) %>%
   mutate(Source = stringr::str_replace(Source, "\\d{4}(?= DataHaven Community Wellbeing Survey)", as.character(cws_yr)),
-         Definition = stringr::str_replace_all(Definition, "http(?=\\:)", "https"),
-         Town = stringr::str_remove(Town, ", Connecticut")) %>%
-  left_join(moe, by = "Town") %>%
-  select(1:4, matches("Maximum MoE"), everything()) %>%
+         Definition = stringr::str_replace_all(Definition, "http(?=\\:)", "https")) |>
+  select(-Town, -County) |>
+  distinct()
+
+# binding geographies here to make sure larger regions get retained (GNH, Valley)
+# but drop ones that are identical to COGs (Greater Bridgeport)
+meta <- tibble(Town = unique(c(urls$Town, old_prof$Town))) |>
+  filter(!Town %in% c("Greater Bridgeport")) |>
+  left_join(moe, by = "Town") |>
+  cross_join(sections) |>
+  left_join(distinct(cwi::xwalk, town, county), by = c("Town" = "town")) |>
+  select(Town, County = county, `Key Facts`, `Wellbeing, Population 18 years and over`, matches("Maximum MoE"), everything()) |>
   left_join(urls, by = "Town")
 
 saveRDS(meta, file.path("utils", str_glue("{yr}_website_meta.rds")))
