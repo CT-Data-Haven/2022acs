@@ -56,7 +56,7 @@ make release
 ```
 
 ```{bash include=FALSE}
-makefile2dot -d BT | dot -Tpng -o make.png -Nfontname=monospace
+makefile2dot -d RL | dot -Tpng -o make.png -Nfontname=monospace
 ```
 
 ![makefile](make.png)
