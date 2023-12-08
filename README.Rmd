@@ -48,6 +48,12 @@ or rebuild just once piece of it, e.g. `make distro_nhood`.
 
 You can supply the years to `make`; calling `make testvars` will verify what years are being used by sourcing just `utils/pkgs_utils.R`.
 
+Additionally, this repo has a release of data in order to have a single source of the year's ACS data for other projects. 
+To create and upload the release, run: 
+
+```bash
+make release 
+```
 
 ```{bash include=FALSE}
 makefile2dot -d BT | dot -Tpng -o make.png -Nfontname=monospace
