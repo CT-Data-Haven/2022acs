@@ -94,9 +94,12 @@ rule prep_distro:
 
 rule release:
     input:
-        rules.calc_acs_towns.output.acs_town,
-    script:
-        "utils/upoad_gh_release.sh"
+        town = rules.calc_acs_towns.output.acs_town,
+        nhood = rules.calc_acs_nhoods.output.acs_city,
+    output:
+        touch('.uploaded'),
+    shell:
+        'bash ./scripts/upload_gh_release.sh {input.town} {input.nhood}'
 
 
 #### MAIN RULES -----
@@ -104,6 +107,7 @@ rule distro:
     input:
         rules.calc_acs_nhoods.output.acs_city,
         rules.prep_distro.output,
+        rules.release.output,
 
 
 rule all:
