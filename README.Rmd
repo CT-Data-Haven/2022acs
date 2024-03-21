@@ -40,25 +40,24 @@ to execute that script for ACS year 2021 & CWS year 2021. Similarly, those 2 var
 To build the full project in the proper order, on the command line run:
 
 ```bash
-make
-# or make all
+snakemake all --cores 2 # or more cores if you can
 ```
 
-or rebuild just once piece of it, e.g. `make distro_nhood`.
+or rebuild just once piece of it, e.g. `snakemake prep_distro --cores 2`.
 
-You can supply the years to `make`; calling `make testvars` will verify what years are being used by sourcing just `utils/pkgs_utils.R`.
+Calling `snakemake testvars --cores 2` will verify what years are being used by sourcing just `utils/pkgs_utils.R`.
 
 Additionally, this repo has a release of data in order to have a single source of the year's ACS data for other projects. 
 To create and upload the release, run: 
 
 ```bash
-make release 
+snakemake release --cores 2
 ```
 
 ```{bash include=FALSE}
-makefile2dot -d RL | dot -Tpng -o make.png -Nfontname=monospace
+snakemake --filegraph | dot -T png > dag.png
 ```
 
-![makefile](make.png)
+![snakefile](dag.png)
 
 
