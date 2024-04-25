@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# 2021 ACS update + community profiles
+# 2022 ACS update + community profiles
 
 Distribution-ready files are in [`to_distro`](to_distro). CSV file for
 populating website’s community profiles is in [`website`](website).
@@ -10,12 +10,14 @@ populating website’s community profiles is in [`website`](website).
 
                                     levelName
     1 .                                      
-    2  ¦--output_data                        
-    3  ¦   ¦--acs_town_basic_profile_2022.csv
-    4  ¦   ¦--acs_town_basic_profile_2022.rds
-    5  ¦   °--cws_basic_indicators_2021.rds  
-    6  °--to_distro                          
-    7      °--town_acs_basic_distro_2022.csv 
+    2  ¦--fetch_data                         
+    3  ¦   °--acs_basic_2022_fetch_all.rds   
+    4  ¦--output_data                        
+    5  ¦   ¦--acs_town_basic_profile_2022.csv
+    6  ¦   ¦--acs_town_basic_profile_2022.rds
+    7  ¦   °--cws_basic_indicators_2021.rds  
+    8  °--to_distro                          
+    9      °--town_acs_basic_distro_2022.csv 
 
 ## Development
 
@@ -29,12 +31,12 @@ to run.
 For example, on the command line run:
 
 ``` bash
-Rscript scripts/03_calc_acs_towns.R 2021 2021
+Rscript scripts/03_calc_acs_towns.R 2022 2021
 ```
 
-to execute that script for ACS year 2021 & CWS year 2021. Similarly,
-those 2 variables are saved in the makefile and passed to scripts from
-there.
+to execute that script for ACS year 2022 & CWS year 2021. Similarly,
+those 2 variables are saved in the makefile / snakefile and passed to
+scripts from there.
 
 To build the full project in the proper order, on the command line run:
 

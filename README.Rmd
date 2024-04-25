@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# 2021 ACS update + community profiles
+# 2022 ACS update + community profiles
 
 Distribution-ready files are in [`to_distro`](to_distro). CSV file for populating website's community profiles is in [`website`](website).
 
@@ -32,10 +32,10 @@ Several global functions and other objects are loaded when each script sources `
 For example, on the command line run:
 
 ```bash
-Rscript scripts/03_calc_acs_towns.R 2021 2021
+Rscript scripts/03_calc_acs_towns.R 2022 2021
 ```
 
-to execute that script for ACS year 2021 & CWS year 2021. Similarly, those 2 variables are saved in the makefile and passed to scripts from there.
+to execute that script for ACS year 2022 & CWS year 2021. Similarly, those 2 variables are saved in the makefile / snakefile and passed to scripts from there.
 
 To build the full project in the proper order, on the command line run:
 

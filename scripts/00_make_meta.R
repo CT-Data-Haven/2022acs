@@ -84,10 +84,10 @@ saveRDS(meta, file.path("utils", str_glue("{yr}_website_meta.rds")))
 
 ######################################## DOWNLOADS #############################----
 # get from town equity repo: reg_puma_list
-town_meta <- gh::gh("/repos/{owner}/{repo}/releases/tags/metadata", owner = "CT-Data-Haven", repo = "towns2023") %>%
-  pluck("assets") %>%
-  map(~.[c("url", "name")]) %>%
-  rlang::set_names(purrr::map_chr(., "name"))
+# town_meta <- gh::gh("/repos/{owner}/{repo}/releases/tags/metadata", owner = "CT-Data-Haven", repo = "towns2023") %>%
+#   pluck("assets") %>%
+#   map(~.[c("url", "name")]) %>%
+#   rlang::set_names(purrr::map_chr(., "name"))
 
-gh::gh(town_meta$reg_puma_list.rds$url, .accept = "application/octet-stream", .destfile = "utils/reg_puma_list.rds", .overwrite = TRUE)
+# gh::gh(town_meta$reg_puma_list.rds$url, .accept = "application/octet-stream", .destfile = "utils/reg_puma_list.rds", .overwrite = TRUE)
 
