@@ -392,1176 +392,1567 @@ total_pop,lower_legis,State House District 150,NA,total_pop,23738,1362,NA,NA
 total_pop,lower_legis,State House District 151,NA,total_pop,24586,1308,NA,NA
 age,1_us,United States,2022,total_pop,331097593,98453,NA,NA
 age,1_us,United States,2022,ages00_17,73213705,44203,0.22,0
+age,1_us,United States,2022,ages18plus,257883888,87972,0.78,0
 age,1_us,United States,2022,ages65plus,54737648,50313,0.17,0
 age,2_state,Connecticut,2022,total_pop,3611317,9916,NA,NA
 age,2_state,Connecticut,2022,ages00_17,742877,4362,0.21,0.001
+age,2_state,Connecticut,2022,ages18plus,2868440,8905,0.79,0.001
 age,2_state,Connecticut,2022,ages65plus,629108,4901,0.17,0.001
 age,3_county,Capitol COG,2022,total_pop,977165,5059,NA,NA
 age,3_county,Capitol COG,2022,ages00_17,200946,2101,0.21,0.002
+age,3_county,Capitol COG,2022,ages18plus,776219,4602,0.79,0.002
 age,3_county,Capitol COG,2022,ages65plus,167285,2619,0.17,0.003
 age,3_county,Greater Bridgeport COG,2022,total_pop,326381,3051,NA,NA
 age,3_county,Greater Bridgeport COG,2022,ages00_17,71713,1195,0.22,0.003
+age,3_county,Greater Bridgeport COG,2022,ages18plus,254668,2807,0.78,0.005
 age,3_county,Greater Bridgeport COG,2022,ages65plus,51824,1481,0.16,0.004
 age,3_county,Lower Connecticut River Valley COG,2022,total_pop,175244,2094,NA,NA
 age,3_county,Lower Connecticut River Valley COG,2022,ages00_17,30301,762,0.17,0.004
+age,3_county,Lower Connecticut River Valley COG,2022,ages18plus,144943,1950,0.83,0.005
 age,3_county,Lower Connecticut River Valley COG,2022,ages65plus,36544,1128,0.21,0.006
 age,3_county,Naugatuck Valley COG,2022,total_pop,451887,3568,NA,NA
 age,3_county,Naugatuck Valley COG,2022,ages00_17,93594,1546,0.21,0.003
+age,3_county,Naugatuck Valley COG,2022,ages18plus,358293,3215,0.79,0.003
 age,3_county,Naugatuck Valley COG,2022,ages65plus,80450,1802,0.18,0.004
 age,3_county,Northeastern Connecticut COG,2022,total_pop,95687,1710,NA,NA
 age,3_county,Northeastern Connecticut COG,2022,ages00_17,19152,783,0.2,0.007
+age,3_county,Northeastern Connecticut COG,2022,ages18plus,76535,1520,0.8,0.007
 age,3_county,Northeastern Connecticut COG,2022,ages65plus,16375,739,0.17,0.007
 age,3_county,Northwest Hills COG,2022,total_pop,112696,1704,NA,NA
 age,3_county,Northwest Hills COG,2022,ages00_17,21501,632,0.19,0.005
+age,3_county,Northwest Hills COG,2022,ages18plus,91195,1582,0.81,0.007
 age,3_county,Northwest Hills COG,2022,ages65plus,23033,831,0.2,0.007
 age,3_county,South Central Connecticut COG,2022,total_pop,571298,3897,NA,NA
 age,3_county,South Central Connecticut COG,2022,ages00_17,113362,1559,0.2,0.002
+age,3_county,South Central Connecticut COG,2022,ages18plus,457936,3572,0.8,0.003
 age,3_county,South Central Connecticut COG,2022,ages65plus,99975,1909,0.17,0.003
 age,3_county,Southeastern Connecticut COG,2022,total_pop,280293,2673,NA,NA
 age,3_county,Southeastern Connecticut COG,2022,ages00_17,54146,1059,0.19,0.003
+age,3_county,Southeastern Connecticut COG,2022,ages18plus,226147,2454,0.81,0.004
 age,3_county,Southeastern Connecticut COG,2022,ages65plus,52957,1461,0.19,0.005
 age,3_county,Western Connecticut COG,2022,total_pop,620666,3997,NA,NA
 age,3_county,Western Connecticut COG,2022,ages00_17,138162,1723,0.22,0.002
+age,3_county,Western Connecticut COG,2022,ages18plus,482504,3607,0.78,0.003
 age,3_county,Western Connecticut COG,2022,ages65plus,100665,2008,0.16,0.003
 age,4_region,6 wealthiest Fairfield County,2022,total_pop,123272,2440,NA,NA
 age,4_region,6 wealthiest Fairfield County,2022,ages00_17,33950,1289,0.28,0.009
+age,4_region,6 wealthiest Fairfield County,2022,ages18plus,89322,2072,0.72,0.009
 age,4_region,6 wealthiest Fairfield County,2022,ages65plus,20093,992,0.16,0.007
 age,4_region,Eastern cities,2022,total_pop,130317,2933,NA,NA
 age,4_region,Eastern cities,2022,ages00_17,23709,1275,0.18,0.009
+age,4_region,Eastern cities,2022,ages18plus,106608,2641,0.82,0.008
 age,4_region,Eastern cities,2022,ages65plus,22803,1213,0.17,0.008
 age,4_region,Greater Bridgeport,2022,total_pop,326381,4276,NA,NA
 age,4_region,Greater Bridgeport,2022,ages00_17,71713,1875,0.22,0.005
+age,4_region,Greater Bridgeport,2022,ages18plus,254668,3843,0.78,0.006
 age,4_region,Greater Bridgeport,2022,ages65plus,51824,1753,0.16,0.005
 age,4_region,Greater Danbury,2022,total_pop,267885,4106,NA,NA
 age,4_region,Greater Danbury,2022,ages00_17,57296,2102,0.21,0.007
+age,4_region,Greater Danbury,2022,ages18plus,210589,3528,0.79,0.005
 age,4_region,Greater Danbury,2022,ages65plus,49577,1603,0.19,0.005
 age,4_region,Greater Danbury other towns,2022,total_pop,153248,2887,NA,NA
 age,4_region,Greater Danbury other towns,2022,ages00_17,33563,1515,0.22,0.009
+age,4_region,Greater Danbury other towns,2022,ages18plus,119685,2457,0.78,0.006
 age,4_region,Greater Danbury other towns,2022,ages65plus,32495,1234,0.21,0.007
 age,4_region,Greater Hartford,2022,total_pop,977165,7788,NA,NA
 age,4_region,Greater Hartford,2022,ages00_17,200946,3628,0.21,0.003
+age,4_region,Greater Hartford,2022,ages18plus,776219,6891,0.79,0.003
 age,4_region,Greater Hartford,2022,ages65plus,167285,2974,0.17,0.003
 age,4_region,Greater New Haven,2022,total_pop,466491,5437,NA,NA
 age,4_region,Greater New Haven,2022,ages00_17,92281,2519,0.2,0.005
+age,4_region,Greater New Haven,2022,ages18plus,374210,4819,0.8,0.004
 age,4_region,Greater New Haven,2022,ages65plus,81110,2060,0.17,0.004
 age,4_region,Greater Norwalk,2022,total_pop,167730,3082,NA,NA
 age,4_region,Greater Norwalk,2022,ages00_17,38360,1524,0.23,0.008
+age,4_region,Greater Norwalk,2022,ages18plus,129370,2678,0.77,0.007
 age,4_region,Greater Norwalk,2022,ages65plus,27003,1179,0.16,0.006
 age,4_region,Greater Norwalk other towns,2022,total_pop,76680,1954,NA,NA
 age,4_region,Greater Norwalk other towns,2022,ages00_17,20693,1042,0.27,0.012
+age,4_region,Greater Norwalk other towns,2022,ages18plus,55987,1653,0.73,0.011
 age,4_region,Greater Norwalk other towns,2022,ages65plus,12630,773,0.16,0.009
 age,4_region,Greater Waterbury,2022,total_pop,340394,4769,NA,NA
 age,4_region,Greater Waterbury,2022,ages00_17,71736,2302,0.21,0.006
+age,4_region,Greater Waterbury,2022,ages18plus,268658,4177,0.79,0.005
 age,4_region,Greater Waterbury,2022,ages65plus,61778,1817,0.18,0.005
 age,4_region,Hartford Foundation,2022,total_pop,758725,6755,NA,NA
 age,4_region,Hartford Foundation,2022,ages00_17,158453,3199,0.21,0.004
+age,4_region,Hartford Foundation,2022,ages18plus,600272,5950,0.79,0.003
 age,4_region,Hartford Foundation,2022,ages65plus,130617,2569,0.17,0.003
 age,4_region,Hartford Foundation other towns,2022,total_pop,637668,6185,NA,NA
 age,4_region,Hartford Foundation other towns,2022,ages00_17,130537,2906,0.2,0.004
+age,4_region,Hartford Foundation other towns,2022,ages18plus,507131,5460,0.8,0.004
 age,4_region,Hartford Foundation other towns,2022,ages65plus,116891,2410,0.18,0.003
 age,4_region,Hartford Inner Ring,2022,total_pop,425652,5157,NA,NA
 age,4_region,Hartford Inner Ring,2022,ages00_17,83804,2390,0.2,0.005
+age,4_region,Hartford Inner Ring,2022,ages18plus,341848,4570,0.8,0.005
 age,4_region,Hartford Inner Ring,2022,ages65plus,77567,2001,0.18,0.004
 age,4_region,Hartford Outer Ring,2022,total_pop,356244,4586,NA,NA
 age,4_region,Hartford Outer Ring,2022,ages00_17,71811,2063,0.2,0.005
+age,4_region,Hartford Outer Ring,2022,ages18plus,284433,4095,0.8,0.005
 age,4_region,Hartford Outer Ring,2022,ages65plus,66304,1869,0.19,0.005
 age,4_region,Lower Naugatuck Valley,2022,total_pop,139814,3245,NA,NA
 age,4_region,Lower Naugatuck Valley,2022,ages00_17,26513,1501,0.19,0.01
+age,4_region,Lower Naugatuck Valley,2022,ages18plus,113301,2876,0.81,0.008
 age,4_region,Lower Naugatuck Valley,2022,ages65plus,25499,1245,0.18,0.008
 age,4_region,New Haven Inner Ring,2022,total_pop,144276,3175,NA,NA
 age,4_region,New Haven Inner Ring,2022,ages00_17,26564,1451,0.18,0.009
+age,4_region,New Haven Inner Ring,2022,ages18plus,117712,2824,0.82,0.008
 age,4_region,New Haven Inner Ring,2022,ages65plus,23851,1133,0.17,0.007
 age,4_region,New Haven Outer Ring,2022,total_pop,186479,3257,NA,NA
 age,4_region,New Haven Outer Ring,2022,ages00_17,35881,1515,0.19,0.007
+age,4_region,New Haven Outer Ring,2022,ages18plus,150598,2883,0.81,0.006
 age,4_region,New Haven Outer Ring,2022,ages65plus,42629,1470,0.23,0.007
 age,4_region,North Central DMHAS,2022,total_pop,1007988,7850,NA,NA
 age,4_region,North Central DMHAS,2022,ages00_17,211995,3732,0.21,0.003
+age,4_region,North Central DMHAS,2022,ages18plus,795993,6906,0.79,0.003
 age,4_region,North Central DMHAS,2022,ages65plus,172228,2963,0.17,0.003
 age,4_region,Other New Haven County cities,2022,total_pop,104807,2605,NA,NA
 age,4_region,Other New Haven County cities,2022,ages00_17,21081,1228,0.2,0.011
+age,4_region,Other New Haven County cities,2022,ages18plus,83726,2297,0.8,0.009
 age,4_region,Other New Haven County cities,2022,ages65plus,18865,1009,0.18,0.009
 age,4_region,QVHD,2022,total_pop,99593,2479,NA,NA
 age,4_region,QVHD,2022,ages00_17,19115,1129,0.19,0.01
+age,4_region,QVHD,2022,ages18plus,80478,2207,0.81,0.009
 age,4_region,QVHD,2022,ages65plus,18593,965,0.19,0.009
 age,4_region,South Central DMHAS,2022,total_pop,825803,7204,NA,NA
 age,4_region,South Central DMHAS,2022,ages00_17,158391,3291,0.19,0.004
+age,4_region,South Central DMHAS,2022,ages18plus,667412,6408,0.81,0.003
 age,4_region,South Central DMHAS,2022,ages65plus,150992,2818,0.18,0.003
 age,4_region,Southeastern DMHAS,2022,total_pop,437516,5195,NA,NA
 age,4_region,Southeastern DMHAS,2022,ages00_17,81969,2355,0.19,0.005
+age,4_region,Southeastern DMHAS,2022,ages18plus,355547,4630,0.81,0.004
 age,4_region,Southeastern DMHAS,2022,ages65plus,79543,2064,0.18,0.004
 age,4_region,Southwestern DMHAS,2022,total_pop,714593,6349,NA,NA
 age,4_region,Southwestern DMHAS,2022,ages00_17,159106,2961,0.22,0.004
+age,4_region,Southwestern DMHAS,2022,ages18plus,555487,5616,0.78,0.004
 age,4_region,Southwestern DMHAS,2022,ages65plus,113170,2531,0.16,0.003
 age,4_region,Western DMHAS,2022,total_pop,625417,6303,NA,NA
 age,4_region,Western DMHAS,2022,ages00_17,131416,3073,0.21,0.004
+age,4_region,Western DMHAS,2022,ages18plus,494001,5503,0.79,0.004
 age,4_region,Western DMHAS,2022,ages65plus,113175,2444,0.18,0.003
 age,6_town,Andover,2022,total_pop,3160,364,NA,NA
 age,6_town,Andover,2022,ages00_17,508,142,0.16,0.041
+age,6_town,Andover,2022,ages18plus,2652,335,0.84,0.044
 age,6_town,Andover,2022,ages65plus,560,150,0.18,0.043
 age,6_town,Ansonia,2022,total_pop,18954,1233,NA,NA
 age,6_town,Ansonia,2022,ages00_17,3632,586,0.19,0.028
+age,6_town,Ansonia,2022,ages18plus,15322,1085,0.81,0.023
 age,6_town,Ansonia,2022,ages65plus,3486,500,0.18,0.024
 age,6_town,Ashford,2022,total_pop,4218,549,NA,NA
 age,6_town,Ashford,2022,ages00_17,950,279,0.23,0.059
+age,6_town,Ashford,2022,ages18plus,3268,473,0.77,0.049
 age,6_town,Ashford,2022,ages65plus,601,124,0.14,0.023
 age,6_town,Avon,2022,total_pop,18852,1026,NA,NA
 age,6_town,Avon,2022,ages00_17,4416,512,0.23,0.024
+age,6_town,Avon,2022,ages18plus,14436,888,0.77,0.022
 age,6_town,Avon,2022,ages65plus,3944,458,0.21,0.021
 age,6_town,Barkhamsted,2022,total_pop,3660,401,NA,NA
 age,6_town,Barkhamsted,2022,ages00_17,699,155,0.19,0.037
+age,6_town,Barkhamsted,2022,ages18plus,2961,369,0.81,0.048
 age,6_town,Barkhamsted,2022,ages65plus,878,248,0.24,0.062
 age,6_town,Beacon Falls,2022,total_pop,6061,639,NA,NA
 age,6_town,Beacon Falls,2022,ages00_17,968,263,0.16,0.04
+age,6_town,Beacon Falls,2022,ages18plus,5093,582,0.84,0.037
 age,6_town,Beacon Falls,2022,ages65plus,1537,307,0.25,0.043
 age,6_town,Berlin,2022,total_pop,20149,1217,NA,NA
 age,6_town,Berlin,2022,ages00_17,4093,589,0.2,0.027
+age,6_town,Berlin,2022,ages18plus,16056,1065,0.8,0.022
 age,6_town,Berlin,2022,ages65plus,4606,619,0.23,0.027
 age,6_town,Bethany,2022,total_pop,5295,636,NA,NA
 age,6_town,Bethany,2022,ages00_17,1083,262,0.2,0.043
+age,6_town,Bethany,2022,ages18plus,4212,579,0.8,0.053
 age,6_town,Bethany,2022,ages65plus,964,227,0.18,0.037
 age,6_town,Bethel,2022,total_pop,20406,1145,NA,NA
 age,6_town,Bethel,2022,ages00_17,4786,679,0.23,0.031
+age,6_town,Bethel,2022,ages18plus,15620,923,0.77,0.014
 age,6_town,Bethel,2022,ages65plus,2971,339,0.15,0.014
 age,6_town,Bethlehem,2022,total_pop,3399,378,NA,NA
 age,6_town,Bethlehem,2022,ages00_17,697,160,0.21,0.041
+age,6_town,Bethlehem,2022,ages18plus,2702,343,0.79,0.049
 age,6_town,Bethlehem,2022,ages65plus,707,146,0.21,0.036
 age,6_town,Bloomfield,2022,total_pop,21460,1207,NA,NA
 age,6_town,Bloomfield,2022,ages00_17,3323,491,0.15,0.021
+age,6_town,Bloomfield,2022,ages18plus,18137,1103,0.85,0.02
 age,6_town,Bloomfield,2022,ages65plus,5228,502,0.24,0.019
 age,6_town,Bolton,2022,total_pop,4851,433,NA,NA
 age,6_town,Bolton,2022,ages00_17,889,192,0.18,0.036
+age,6_town,Bolton,2022,ages18plus,3962,388,0.82,0.033
 age,6_town,Bolton,2022,ages65plus,976,157,0.2,0.027
 age,6_town,Bozrah,2022,total_pop,2410,261,NA,NA
 age,6_town,Bozrah,2022,ages00_17,496,136,0.21,0.052
+age,6_town,Bozrah,2022,ages18plus,1914,223,0.79,0.034
 age,6_town,Bozrah,2022,ages65plus,420,76,0.17,0.025
 age,6_town,Branford,2022,total_pop,28177,1310,NA,NA
 age,6_town,Branford,2022,ages00_17,4278,504,0.15,0.016
+age,6_town,Branford,2022,ages18plus,23899,1209,0.85,0.017
 age,6_town,Branford,2022,ages65plus,7546,667,0.27,0.02
 age,6_town,Bridgeport,2022,total_pop,148470,2897,NA,NA
 age,6_town,Bridgeport,2022,ages00_17,30802,1085,0.21,0.006
+age,6_town,Bridgeport,2022,ages18plus,117668,2686,0.79,0.009
 age,6_town,Bridgeport,2022,ages65plus,20091,1220,0.14,0.008
 age,6_town,Bridgewater,2022,total_pop,1701,161,NA,NA
 age,6_town,Bridgewater,2022,ages00_17,238,49,0.14,0.026
+age,6_town,Bridgewater,2022,ages18plus,1463,153,0.86,0.038
 age,6_town,Bridgewater,2022,ages65plus,574,125,0.34,0.066
 age,6_town,Bristol,2022,total_pop,61052,1956,NA,NA
 age,6_town,Bristol,2022,ages00_17,12999,1011,0.21,0.015
+age,6_town,Bristol,2022,ages18plus,48053,1674,0.79,0.011
 age,6_town,Bristol,2022,ages65plus,9426,648,0.15,0.009
 age,6_town,Brookfield,2022,total_pop,17468,1007,NA,NA
 age,6_town,Brookfield,2022,ages00_17,3777,484,0.22,0.025
+age,6_town,Brookfield,2022,ages18plus,13691,883,0.78,0.023
 age,6_town,Brookfield,2022,ages65plus,3578,467,0.2,0.024
 age,6_town,Brooklyn,2022,total_pop,8402,735,NA,NA
 age,6_town,Brooklyn,2022,ages00_17,1665,396,0.2,0.044
+age,6_town,Brooklyn,2022,ages18plus,6737,619,0.8,0.023
 age,6_town,Brooklyn,2022,ages65plus,1477,248,0.18,0.025
 age,6_town,Burlington,2022,total_pop,9557,630,NA,NA
 age,6_town,Burlington,2022,ages00_17,2530,331,0.26,0.03
+age,6_town,Burlington,2022,ages18plus,7027,536,0.74,0.028
 age,6_town,Burlington,2022,ages65plus,1187,183,0.12,0.017
 age,6_town,Canaan,2022,total_pop,1155,150,NA,NA
 age,6_town,Canaan,2022,ages00_17,154,42,0.13,0.032
+age,6_town,Canaan,2022,ages18plus,1001,144,0.87,0.054
 age,6_town,Canaan,2022,ages65plus,263,52,0.23,0.034
 age,6_town,Canterbury,2022,total_pop,5067,554,NA,NA
 age,6_town,Canterbury,2022,ages00_17,809,204,0.16,0.036
+age,6_town,Canterbury,2022,ages18plus,4258,515,0.84,0.043
 age,6_town,Canterbury,2022,ages65plus,979,211,0.19,0.036
 age,6_town,Canton,2022,total_pop,10125,814,NA,NA
 age,6_town,Canton,2022,ages00_17,2296,361,0.23,0.031
+age,6_town,Canton,2022,ages18plus,7829,730,0.77,0.037
 age,6_town,Canton,2022,ages65plus,2239,432,0.22,0.039
 age,6_town,Chaplin,2022,total_pop,2229,271,NA,NA
 age,6_town,Chaplin,2022,ages00_17,361,91,0.16,0.036
+age,6_town,Chaplin,2022,ages18plus,1868,256,0.84,0.053
 age,6_town,Chaplin,2022,ages65plus,353,91,0.16,0.036
 age,6_town,Cheshire,2022,total_pop,28791,1323,NA,NA
 age,6_town,Cheshire,2022,ages00_17,6507,706,0.23,0.022
+age,6_town,Cheshire,2022,ages18plus,22284,1119,0.77,0.016
 age,6_town,Cheshire,2022,ages65plus,5172,450,0.18,0.013
 age,6_town,Chester,2022,total_pop,3740,379,NA,NA
 age,6_town,Chester,2022,ages00_17,627,182,0.17,0.046
+age,6_town,Chester,2022,ages18plus,3113,332,0.83,0.028
 age,6_town,Chester,2022,ages65plus,995,175,0.27,0.038
 age,6_town,Clinton,2022,total_pop,13284,733,NA,NA
 age,6_town,Clinton,2022,ages00_17,2186,297,0.16,0.02
+age,6_town,Clinton,2022,ages18plus,11098,670,0.84,0.02
 age,6_town,Clinton,2022,ages65plus,3019,330,0.23,0.021
 age,6_town,Colchester,2022,total_pop,15550,959,NA,NA
 age,6_town,Colchester,2022,ages00_17,3668,502,0.24,0.029
+age,6_town,Colchester,2022,ages18plus,11882,817,0.76,0.023
 age,6_town,Colchester,2022,ages65plus,2621,339,0.17,0.019
 age,6_town,Colebrook,2022,total_pop,1594,159,NA,NA
 age,6_town,Colebrook,2022,ages00_17,260,66,0.16,0.038
+age,6_town,Colebrook,2022,ages18plus,1334,145,0.84,0.036
 age,6_town,Colebrook,2022,ages65plus,358,76,0.22,0.042
 age,6_town,Columbia,2022,total_pop,5280,634,NA,NA
 age,6_town,Columbia,2022,ages00_17,669,199,0.13,0.034
+age,6_town,Columbia,2022,ages18plus,4611,602,0.87,0.045
 age,6_town,Columbia,2022,ages65plus,1340,311,0.25,0.05
 age,6_town,Cornwall,2022,total_pop,1315,146,NA,NA
 age,6_town,Cornwall,2022,ages00_17,188,49,0.14,0.034
+age,6_town,Cornwall,2022,ages18plus,1127,138,0.86,0.044
 age,6_town,Cornwall,2022,ages65plus,342,54,0.26,0.029
 age,6_town,Coventry,2022,total_pop,12254,958,NA,NA
 age,6_town,Coventry,2022,ages00_17,2592,421,0.21,0.03
+age,6_town,Coventry,2022,ages18plus,9662,861,0.79,0.034
 age,6_town,Coventry,2022,ages65plus,2202,398,0.18,0.029
 age,6_town,Cromwell,2022,total_pop,14250,976,NA,NA
 age,6_town,Cromwell,2022,ages00_17,2686,402,0.19,0.025
+age,6_town,Cromwell,2022,ages18plus,11564,890,0.81,0.028
 age,6_town,Cromwell,2022,ages65plus,3074,427,0.22,0.026
 age,6_town,Danbury,2022,total_pop,86456,2529,NA,NA
 age,6_town,Danbury,2022,ages00_17,17560,1255,0.2,0.013
+age,6_town,Danbury,2022,ages18plus,68896,2196,0.8,0.01
 age,6_town,Danbury,2022,ages65plus,12823,930,0.15,0.01
 age,6_town,Darien,2022,total_pop,21571,954,NA,NA
 age,6_town,Darien,2022,ages00_17,6786,494,0.31,0.018
+age,6_town,Darien,2022,ages18plus,14785,816,0.69,0.023
 age,6_town,Darien,2022,ages65plus,2785,416,0.13,0.018
 age,6_town,Deep River,2022,total_pop,4445,506,NA,NA
 age,6_town,Deep River,2022,ages00_17,904,225,0.2,0.045
+age,6_town,Deep River,2022,ages18plus,3541,454,0.8,0.047
 age,6_town,Deep River,2022,ages65plus,893,187,0.2,0.035
 age,6_town,Derby,2022,total_pop,12373,1086,NA,NA
 age,6_town,Derby,2022,ages00_17,2089,482,0.17,0.036
+age,6_town,Derby,2022,ages18plus,10284,973,0.83,0.029
 age,6_town,Derby,2022,ages65plus,2567,474,0.21,0.034
 age,6_town,Durham,2022,total_pop,7197,713,NA,NA
 age,6_town,Durham,2022,ages00_17,1223,255,0.17,0.031
+age,6_town,Durham,2022,ages18plus,5974,666,0.83,0.042
 age,6_town,Durham,2022,ages65plus,1344,259,0.19,0.031
 age,6_town,East Granby,2022,total_pop,5198,614,NA,NA
 age,6_town,East Granby,2022,ages00_17,1440,406,0.28,0.071
+age,6_town,East Granby,2022,ages18plus,3758,461,0.72,0.024
 age,6_town,East Granby,2022,ages65plus,989,240,0.19,0.04
 age,6_town,East Haddam,2022,total_pop,8921,711,NA,NA
 age,6_town,East Haddam,2022,ages00_17,1593,371,0.18,0.039
+age,6_town,East Haddam,2022,ages18plus,7328,607,0.82,0.019
 age,6_town,East Haddam,2022,ages65plus,2140,317,0.24,0.03
 age,6_town,East Hampton,2022,total_pop,12798,775,NA,NA
 age,6_town,East Hampton,2022,ages00_17,2840,397,0.22,0.028
+age,6_town,East Hampton,2022,ages18plus,9958,666,0.78,0.022
 age,6_town,East Hampton,2022,ages65plus,2409,331,0.19,0.023
 age,6_town,East Hartford,2022,total_pop,50942,1991,NA,NA
 age,6_town,East Hartford,2022,ages00_17,11035,991,0.22,0.018
+age,6_town,East Hartford,2022,ages18plus,39907,1727,0.78,0.015
 age,6_town,East Hartford,2022,ages65plus,7026,551,0.14,0.009
 age,6_town,East Haven,2022,total_pop,27871,1301,NA,NA
 age,6_town,East Haven,2022,ages00_17,4789,615,0.17,0.021
+age,6_town,East Haven,2022,ages18plus,23082,1147,0.83,0.014
 age,6_town,East Haven,2022,ages65plus,5576,505,0.2,0.016
 age,6_town,East Lyme,2022,total_pop,18600,890,NA,NA
 age,6_town,East Lyme,2022,ages00_17,3238,406,0.17,0.02
+age,6_town,East Lyme,2022,ages18plus,15362,792,0.83,0.016
 age,6_town,East Lyme,2022,ages65plus,4742,433,0.25,0.02
 age,6_town,East Windsor,2022,total_pop,11180,1004,NA,NA
 age,6_town,East Windsor,2022,ages00_17,1568,397,0.14,0.033
+age,6_town,East Windsor,2022,ages18plus,9612,922,0.86,0.029
 age,6_town,East Windsor,2022,ages65plus,2289,432,0.2,0.034
 age,6_town,Eastford,2022,total_pop,1618,170,NA,NA
 age,6_town,Eastford,2022,ages00_17,299,76,0.18,0.043
+age,6_town,Eastford,2022,ages18plus,1319,152,0.82,0.039
 age,6_town,Eastford,2022,ages65plus,279,51,0.17,0.026
 age,6_town,Easton,2022,total_pop,7630,588,NA,NA
 age,6_town,Easton,2022,ages00_17,1908,290,0.25,0.033
+age,6_town,Easton,2022,ages18plus,5722,511,0.75,0.034
 age,6_town,Easton,2022,ages65plus,1386,257,0.18,0.031
 age,6_town,Ellington,2022,total_pop,16558,1164,NA,NA
 age,6_town,Ellington,2022,ages00_17,3833,550,0.23,0.029
+age,6_town,Ellington,2022,ages18plus,12725,1026,0.77,0.03
 age,6_town,Ellington,2022,ages65plus,2985,510,0.18,0.028
 age,6_town,Enfield,2022,total_pop,41346,1529,NA,NA
 age,6_town,Enfield,2022,ages00_17,8157,790,0.2,0.018
+age,6_town,Enfield,2022,ages18plus,33189,1310,0.8,0.011
 age,6_town,Enfield,2022,ages65plus,7095,494,0.17,0.01
 age,6_town,Essex,2022,total_pop,6754,661,NA,NA
 age,6_town,Essex,2022,ages00_17,1046,242,0.15,0.032
+age,6_town,Essex,2022,ages18plus,5708,615,0.85,0.038
 age,6_town,Essex,2022,ages65plus,1782,294,0.26,0.035
 age,6_town,Fairfield,2022,total_pop,62072,1815,NA,NA
 age,6_town,Fairfield,2022,ages00_17,14911,897,0.24,0.013
+age,6_town,Fairfield,2022,ages18plus,47161,1578,0.76,0.012
 age,6_town,Fairfield,2022,ages65plus,9594,612,0.15,0.009
 age,6_town,Farmington,2022,total_pop,26623,1115,NA,NA
 age,6_town,Farmington,2022,ages00_17,5218,475,0.2,0.016
+age,6_town,Farmington,2022,ages18plus,21405,1009,0.8,0.017
 age,6_town,Farmington,2022,ages65plus,5432,501,0.2,0.017
 age,6_town,Franklin,2022,total_pop,1892,160,NA,NA
 age,6_town,Franklin,2022,ages00_17,470,100,0.25,0.048
+age,6_town,Franklin,2022,ages18plus,1422,125,0.75,0.018
 age,6_town,Franklin,2022,ages65plus,358,50,0.19,0.021
 age,6_town,Glastonbury,2022,total_pop,35105,1391,NA,NA
 age,6_town,Glastonbury,2022,ages00_17,7280,662,0.21,0.017
+age,6_town,Glastonbury,2022,ages18plus,27825,1224,0.79,0.015
 age,6_town,Glastonbury,2022,ages65plus,7280,642,0.21,0.016
 age,6_town,Goshen,2022,total_pop,3144,332,NA,NA
 age,6_town,Goshen,2022,ages00_17,621,140,0.2,0.039
+age,6_town,Goshen,2022,ages18plus,2523,301,0.8,0.045
 age,6_town,Goshen,2022,ages65plus,710,149,0.23,0.041
 age,6_town,Granby,2022,total_pop,10972,763,NA,NA
 age,6_town,Granby,2022,ages00_17,2273,342,0.21,0.028
+age,6_town,Granby,2022,ages18plus,8699,681,0.79,0.029
 age,6_town,Granby,2022,ages65plus,2143,299,0.2,0.024
 age,6_town,Greenwich,2022,total_pop,63498,1703,NA,NA
 age,6_town,Greenwich,2022,ages00_17,16290,924,0.26,0.013
+age,6_town,Greenwich,2022,ages18plus,47208,1431,0.74,0.011
 age,6_town,Greenwich,2022,ages65plus,10833,632,0.17,0.009
 age,6_town,Griswold,2022,total_pop,11488,936,NA,NA
 age,6_town,Griswold,2022,ages00_17,2124,413,0.18,0.033
+age,6_town,Griswold,2022,ages18plus,9364,840,0.82,0.031
 age,6_town,Griswold,2022,ages65plus,2054,394,0.18,0.031
 age,6_town,Groton,2022,total_pop,38217,1497,NA,NA
 age,6_town,Groton,2022,ages00_17,7142,644,0.19,0.015
+age,6_town,Groton,2022,ages18plus,31075,1352,0.81,0.015
 age,6_town,Groton,2022,ages65plus,7224,676,0.19,0.016
 age,6_town,Guilford,2022,total_pop,22046,1128,NA,NA
 age,6_town,Guilford,2022,ages00_17,4909,569,0.22,0.023
+age,6_town,Guilford,2022,ages18plus,17137,974,0.78,0.019
 age,6_town,Guilford,2022,ages65plus,5599,602,0.25,0.024
 age,6_town,Haddam,2022,total_pop,8492,679,NA,NA
 age,6_town,Haddam,2022,ages00_17,1881,322,0.22,0.034
+age,6_town,Haddam,2022,ages18plus,6611,597,0.78,0.033
 age,6_town,Haddam,2022,ages65plus,1648,260,0.19,0.026
 age,6_town,Hamden,2022,total_pop,61069,1953,NA,NA
 age,6_town,Hamden,2022,ages00_17,10671,847,0.17,0.013
+age,6_town,Hamden,2022,ages18plus,50398,1759,0.83,0.012
 age,6_town,Hamden,2022,ages65plus,10205,741,0.17,0.011
 age,6_town,Hampton,2022,total_pop,1639,174,NA,NA
 age,6_town,Hampton,2022,ages00_17,287,78,0.18,0.044
+age,6_town,Hampton,2022,ages18plus,1352,155,0.82,0.036
 age,6_town,Hampton,2022,ages65plus,364,67,0.22,0.033
 age,6_town,Hartford,2022,total_pop,121057,2716,NA,NA
 age,6_town,Hartford,2022,ages00_17,27916,1336,0.23,0.01
+age,6_town,Hartford,2022,ages18plus,93141,2365,0.77,0.009
 age,6_town,Hartford,2022,ages65plus,13726,890,0.11,0.007
 age,6_town,Hartland,2022,total_pop,1806,168,NA,NA
 age,6_town,Hartland,2022,ages00_17,300,64,0.17,0.032
+age,6_town,Hartland,2022,ages18plus,1506,155,0.83,0.037
 age,6_town,Hartland,2022,ages65plus,354,67,0.2,0.032
 age,6_town,Harwinton,2022,total_pop,5509,466,NA,NA
 age,6_town,Harwinton,2022,ages00_17,1101,224,0.2,0.037
+age,6_town,Harwinton,2022,ages18plus,4408,409,0.8,0.031
 age,6_town,Harwinton,2022,ages65plus,1101,172,0.2,0.026
 age,6_town,Hebron,2022,total_pop,9127,594,NA,NA
 age,6_town,Hebron,2022,ages00_17,1969,287,0.22,0.028
+age,6_town,Hebron,2022,ages18plus,7158,520,0.78,0.025
 age,6_town,Hebron,2022,ages65plus,1731,237,0.19,0.023
 age,6_town,Kent,2022,total_pop,3015,416,NA,NA
 age,6_town,Kent,2022,ages00_17,370,116,0.12,0.035
+age,6_town,Kent,2022,ages18plus,2645,399,0.88,0.053
 age,6_town,Kent,2022,ages65plus,864,194,0.29,0.051
 age,6_town,Killingly,2022,total_pop,17757,1117,NA,NA
 age,6_town,Killingly,2022,ages00_17,3877,574,0.22,0.029
+age,6_town,Killingly,2022,ages18plus,13880,959,0.78,0.022
 age,6_town,Killingly,2022,ages65plus,3262,378,0.18,0.018
 age,6_town,Killingworth,2022,total_pop,6216,613,NA,NA
 age,6_town,Killingworth,2022,ages00_17,1139,264,0.18,0.038
+age,6_town,Killingworth,2022,ages18plus,5077,553,0.82,0.038
 age,6_town,Killingworth,2022,ages65plus,1354,272,0.22,0.038
 age,6_town,Lebanon,2022,total_pop,7145,685,NA,NA
 age,6_town,Lebanon,2022,ages00_17,1316,281,0.18,0.035
+age,6_town,Lebanon,2022,ages18plus,5829,625,0.82,0.039
 age,6_town,Lebanon,2022,ages65plus,1338,312,0.19,0.04
 age,6_town,Ledyard,2022,total_pop,15394,1047,NA,NA
 age,6_town,Ledyard,2022,ages00_17,4068,586,0.26,0.034
+age,6_town,Ledyard,2022,ages18plus,11326,868,0.74,0.026
 age,6_town,Ledyard,2022,ages65plus,2432,418,0.16,0.025
 age,6_town,Lisbon,2022,total_pop,4202,436,NA,NA
 age,6_town,Lisbon,2022,ages00_17,1041,282,0.25,0.062
+age,6_town,Lisbon,2022,ages18plus,3161,333,0.75,0.014
 age,6_town,Lisbon,2022,ages65plus,778,159,0.19,0.033
 age,6_town,Litchfield,2022,total_pop,8232,566,NA,NA
 age,6_town,Litchfield,2022,ages00_17,1384,200,0.17,0.021
+age,6_town,Litchfield,2022,ages18plus,6848,529,0.83,0.029
 age,6_town,Litchfield,2022,ages65plus,1953,266,0.24,0.028
 age,6_town,Lyme,2022,total_pop,2390,280,NA,NA
 age,6_town,Lyme,2022,ages00_17,381,89,0.16,0.032
+age,6_town,Lyme,2022,ages18plus,2009,266,0.84,0.052
 age,6_town,Lyme,2022,ages65plus,617,146,0.26,0.053
 age,6_town,Madison,2022,total_pop,17658,1004,NA,NA
 age,6_town,Madison,2022,ages00_17,3442,421,0.19,0.021
+age,6_town,Madison,2022,ages18plus,14216,912,0.81,0.024
 age,6_town,Madison,2022,ages65plus,4248,437,0.24,0.021
 age,6_town,Manchester,2022,total_pop,59510,1950,NA,NA
 age,6_town,Manchester,2022,ages00_17,12273,937,0.21,0.014
+age,6_town,Manchester,2022,ages18plus,47237,1710,0.79,0.012
 age,6_town,Manchester,2022,ages65plus,9349,775,0.16,0.012
 age,6_town,Mansfield,2022,total_pop,28378,1392,NA,NA
 age,6_town,Mansfield,2022,ages00_17,2696,413,0.1,0.014
+age,6_town,Mansfield,2022,ages18plus,25682,1330,0.9,0.015
 age,6_town,Mansfield,2022,ages65plus,2972,430,0.1,0.014
 age,6_town,Marlborough,2022,total_pop,6134,585,NA,NA
 age,6_town,Marlborough,2022,ages00_17,1431,283,0.23,0.04
+age,6_town,Marlborough,2022,ages18plus,4703,512,0.77,0.04
 age,6_town,Marlborough,2022,ages65plus,1003,199,0.16,0.028
 age,6_town,Meriden,2022,total_pop,60556,2061,NA,NA
 age,6_town,Meriden,2022,ages00_17,13082,1006,0.22,0.015
+age,6_town,Meriden,2022,ages18plus,47474,1798,0.78,0.013
 age,6_town,Meriden,2022,ages65plus,9507,713,0.16,0.01
 age,6_town,Middlebury,2022,total_pop,7665,633,NA,NA
 age,6_town,Middlebury,2022,ages00_17,1797,316,0.23,0.036
+age,6_town,Middlebury,2022,ages18plus,5868,549,0.77,0.034
 age,6_town,Middlebury,2022,ages65plus,1732,309,0.23,0.036
 age,6_town,Middlefield,2022,total_pop,4240,444,NA,NA
 age,6_town,Middlefield,2022,ages00_17,666,148,0.16,0.031
+age,6_town,Middlefield,2022,ages18plus,3574,418,0.84,0.044
 age,6_town,Middlefield,2022,ages65plus,966,269,0.23,0.059
 age,6_town,Middletown,2022,total_pop,48152,1598,NA,NA
 age,6_town,Middletown,2022,ages00_17,7111,589,0.15,0.011
+age,6_town,Middletown,2022,ages18plus,41041,1486,0.85,0.012
 age,6_town,Middletown,2022,ages65plus,7460,588,0.15,0.011
 age,6_town,Milford,2022,total_pop,52283,1639,NA,NA
 age,6_town,Milford,2022,ages00_17,8927,789,0.17,0.014
+age,6_town,Milford,2022,ages18plus,43356,1437,0.83,0.009
 age,6_town,Milford,2022,ages65plus,10778,688,0.21,0.011
 age,6_town,Monroe,2022,total_pop,18851,1101,NA,NA
 age,6_town,Monroe,2022,ages00_17,4691,552,0.25,0.025
+age,6_town,Monroe,2022,ages18plus,14160,953,0.75,0.025
 age,6_town,Monroe,2022,ages65plus,2922,380,0.16,0.018
 age,6_town,Montville,2022,total_pop,18160,1124,NA,NA
 age,6_town,Montville,2022,ages00_17,3280,548,0.18,0.028
+age,6_town,Montville,2022,ages18plus,14880,982,0.82,0.019
 age,6_town,Montville,2022,ages65plus,2993,379,0.16,0.018
 age,6_town,Morris,2022,total_pop,2059,279,NA,NA
 age,6_town,Morris,2022,ages00_17,340,88,0.17,0.036
+age,6_town,Morris,2022,ages18plus,1719,264,0.83,0.06
 age,6_town,Morris,2022,ages65plus,508,146,0.25,0.063
 age,6_town,Naugatuck,2022,total_pop,31653,1600,NA,NA
 age,6_town,Naugatuck,2022,ages00_17,6146,681,0.19,0.019
+age,6_town,Naugatuck,2022,ages18plus,25507,1447,0.81,0.021
 age,6_town,Naugatuck,2022,ages65plus,4420,541,0.14,0.016
 age,6_town,New Britain,2022,total_pop,74212,2376,NA,NA
 age,6_town,New Britain,2022,ages00_17,17415,1185,0.23,0.014
+age,6_town,New Britain,2022,ages18plus,56797,2059,0.77,0.013
 age,6_town,New Britain,2022,ages65plus,9688,746,0.13,0.009
 age,6_town,New Canaan,2022,total_pop,20639,1089,NA,NA
 age,6_town,New Canaan,2022,ages00_17,5620,498,0.27,0.019
+age,6_town,New Canaan,2022,ages18plus,15019,968,0.73,0.027
 age,6_town,New Canaan,2022,ages65plus,3259,427,0.16,0.019
 age,6_town,New Fairfield,2022,total_pop,13596,809,NA,NA
 age,6_town,New Fairfield,2022,ages00_17,3355,520,0.25,0.035
+age,6_town,New Fairfield,2022,ages18plus,10241,620,0.75,0.008
 age,6_town,New Fairfield,2022,ages65plus,2316,288,0.17,0.019
 age,6_town,New Hartford,2022,total_pop,6680,679,NA,NA
 age,6_town,New Hartford,2022,ages00_17,1423,303,0.21,0.04
+age,6_town,New Hartford,2022,ages18plus,5257,608,0.79,0.043
 age,6_town,New Hartford,2022,ages65plus,1104,260,0.17,0.035
 age,6_town,New Haven,2022,total_pop,135736,2980,NA,NA
 age,6_town,New Haven,2022,ages00_17,29836,1394,0.22,0.009
+age,6_town,New Haven,2022,ages18plus,105900,2633,0.78,0.009
 age,6_town,New Haven,2022,ages65plus,14630,894,0.11,0.006
 age,6_town,New London,2022,total_pop,27596,1384,NA,NA
 age,6_town,New London,2022,ages00_17,4553,542,0.16,0.018
+age,6_town,New London,2022,ages18plus,23043,1273,0.84,0.019
 age,6_town,New London,2022,ages65plus,4063,521,0.15,0.017
 age,6_town,New Milford,2022,total_pop,28181,1460,NA,NA
 age,6_town,New Milford,2022,ages00_17,6173,738,0.22,0.024
+age,6_town,New Milford,2022,ages18plus,22008,1260,0.78,0.019
 age,6_town,New Milford,2022,ages65plus,4259,426,0.15,0.013
 age,6_town,Newington,2022,total_pop,30458,1264,NA,NA
 age,6_town,Newington,2022,ages00_17,5313,502,0.17,0.015
+age,6_town,Newington,2022,ages18plus,25145,1160,0.83,0.017
 age,6_town,Newington,2022,ages65plus,6082,490,0.2,0.014
 age,6_town,Newtown,2022,total_pop,27341,1181,NA,NA
 age,6_town,Newtown,2022,ages00_17,6129,611,0.22,0.02
+age,6_town,Newtown,2022,ages18plus,21212,1011,0.78,0.016
 age,6_town,Newtown,2022,ages65plus,5061,471,0.19,0.015
 age,6_town,Norfolk,2022,total_pop,1856,221,NA,NA
 age,6_town,Norfolk,2022,ages00_17,361,105,0.19,0.052
+age,6_town,Norfolk,2022,ages18plus,1495,194,0.81,0.042
 age,6_town,Norfolk,2022,ages65plus,430,73,0.23,0.028
 age,6_town,North Branford,2022,total_pop,13560,1023,NA,NA
 age,6_town,North Branford,2022,ages00_17,2571,480,0.19,0.032
+age,6_town,North Branford,2022,ages18plus,10989,903,0.81,0.026
 age,6_town,North Branford,2022,ages65plus,2898,457,0.21,0.03
 age,6_town,North Canaan,2022,total_pop,3212,434,NA,NA
 age,6_town,North Canaan,2022,ages00_17,771,244,0.24,0.069
+age,6_town,North Canaan,2022,ages18plus,2441,359,0.76,0.044
 age,6_town,North Canaan,2022,ages65plus,651,168,0.2,0.045
 age,6_town,North Haven,2022,total_pop,24179,1194,NA,NA
 age,6_town,North Haven,2022,ages00_17,4952,577,0.2,0.022
+age,6_town,North Haven,2022,ages18plus,19227,1045,0.8,0.018
 age,6_town,North Haven,2022,ages65plus,5565,515,0.23,0.018
 age,6_town,North Stonington,2022,total_pop,5160,614,NA,NA
 age,6_town,North Stonington,2022,ages00_17,947,307,0.18,0.055
+age,6_town,North Stonington,2022,ages18plus,4213,532,0.82,0.035
 age,6_town,North Stonington,2022,ages65plus,1282,296,0.25,0.049
 age,6_town,Norwalk,2022,total_pop,91050,2382,NA,NA
 age,6_town,Norwalk,2022,ages00_17,17667,1112,0.19,0.011
+age,6_town,Norwalk,2022,ages18plus,73383,2107,0.81,0.01
 age,6_town,Norwalk,2022,ages65plus,14373,890,0.16,0.009
 age,6_town,Norwich,2022,total_pop,40054,1685,NA,NA
 age,6_town,Norwich,2022,ages00_17,8001,808,0.2,0.018
+age,6_town,Norwich,2022,ages18plus,32053,1479,0.8,0.015
 age,6_town,Norwich,2022,ages65plus,7770,718,0.19,0.016
 age,6_town,Old Lyme,2022,total_pop,7648,540,NA,NA
 age,6_town,Old Lyme,2022,ages00_17,1601,271,0.21,0.032
+age,6_town,Old Lyme,2022,ages18plus,6047,467,0.79,0.025
 age,6_town,Old Lyme,2022,ages65plus,1896,244,0.25,0.027
 age,6_town,Old Saybrook,2022,total_pop,10492,805,NA,NA
 age,6_town,Old Saybrook,2022,ages00_17,1481,354,0.14,0.032
+age,6_town,Old Saybrook,2022,ages18plus,9011,723,0.86,0.02
 age,6_town,Old Saybrook,2022,ages65plus,3167,371,0.3,0.027
 age,6_town,Orange,2022,total_pop,14231,736,NA,NA
 age,6_town,Orange,2022,ages00_17,3310,362,0.23,0.022
+age,6_town,Orange,2022,ages18plus,10921,641,0.77,0.021
 age,6_town,Orange,2022,ages65plus,3172,311,0.22,0.019
 age,6_town,Oxford,2022,total_pop,12801,1057,NA,NA
 age,6_town,Oxford,2022,ages00_17,2689,567,0.21,0.041
+age,6_town,Oxford,2022,ages18plus,10112,892,0.79,0.025
 age,6_town,Oxford,2022,ages65plus,2556,345,0.2,0.021
 age,6_town,Plainfield,2022,total_pop,15065,974,NA,NA
 age,6_town,Plainfield,2022,ages00_17,3095,476,0.21,0.029
+age,6_town,Plainfield,2022,ages18plus,11970,850,0.79,0.023
 age,6_town,Plainfield,2022,ages65plus,2302,346,0.15,0.021
 age,6_town,Plainville,2022,total_pop,17505,1083,NA,NA
 age,6_town,Plainville,2022,ages00_17,3017,421,0.17,0.022
+age,6_town,Plainville,2022,ages18plus,14488,998,0.83,0.025
 age,6_town,Plainville,2022,ages65plus,3414,453,0.2,0.023
 age,6_town,Plymouth,2022,total_pop,11712,744,NA,NA
 age,6_town,Plymouth,2022,ages00_17,2209,317,0.19,0.024
+age,6_town,Plymouth,2022,ages18plus,9503,673,0.81,0.025
 age,6_town,Plymouth,2022,ages65plus,2028,241,0.17,0.017
 age,6_town,Pomfret,2022,total_pop,4289,439,NA,NA
 age,6_town,Pomfret,2022,ages00_17,953,207,0.22,0.043
+age,6_town,Pomfret,2022,ages18plus,3336,387,0.78,0.042
 age,6_town,Pomfret,2022,ages65plus,779,182,0.18,0.038
 age,6_town,Portland,2022,total_pop,9409,715,NA,NA
 age,6_town,Portland,2022,ages00_17,2170,353,0.23,0.033
+age,6_town,Portland,2022,ages18plus,7239,622,0.77,0.031
 age,6_town,Portland,2022,ages65plus,1604,261,0.17,0.025
 age,6_town,Preston,2022,total_pop,4804,503,NA,NA
 age,6_town,Preston,2022,ages00_17,1008,228,0.21,0.042
+age,6_town,Preston,2022,ages18plus,3796,448,0.79,0.043
 age,6_town,Preston,2022,ages65plus,914,185,0.19,0.033
 age,6_town,Prospect,2022,total_pop,9411,768,NA,NA
 age,6_town,Prospect,2022,ages00_17,2237,419,0.24,0.04
+age,6_town,Prospect,2022,ages18plus,7174,644,0.76,0.029
 age,6_town,Prospect,2022,ages65plus,1888,286,0.2,0.026
 age,6_town,Putnam,2022,total_pop,9270,772,NA,NA
 age,6_town,Putnam,2022,ages00_17,1936,419,0.21,0.042
+age,6_town,Putnam,2022,ages18plus,7334,649,0.79,0.024
 age,6_town,Putnam,2022,ages65plus,1492,275,0.16,0.026
 age,6_town,Redding,2022,total_pop,8785,598,NA,NA
 age,6_town,Redding,2022,ages00_17,1758,284,0.2,0.029
+age,6_town,Redding,2022,ages18plus,7027,526,0.8,0.025
 age,6_town,Redding,2022,ages65plus,2059,254,0.23,0.024
 age,6_town,Ridgefield,2022,total_pop,25021,1107,NA,NA
 age,6_town,Ridgefield,2022,ages00_17,6471,576,0.26,0.02
+age,6_town,Ridgefield,2022,ages18plus,18550,945,0.74,0.019
 age,6_town,Ridgefield,2022,ages65plus,4678,464,0.19,0.017
 age,6_town,Rocky Hill,2022,total_pop,20705,1231,NA,NA
 age,6_town,Rocky Hill,2022,ages00_17,3652,496,0.18,0.022
+age,6_town,Rocky Hill,2022,ages18plus,17053,1126,0.82,0.024
 age,6_town,Rocky Hill,2022,ages65plus,4414,578,0.21,0.025
 age,6_town,Roxbury,2022,total_pop,2069,234,NA,NA
 age,6_town,Roxbury,2022,ages00_17,322,88,0.16,0.039
+age,6_town,Roxbury,2022,ages18plus,1747,217,0.84,0.043
 age,6_town,Roxbury,2022,ages65plus,579,128,0.28,0.053
 age,6_town,Salem,2022,total_pop,4230,459,NA,NA
 age,6_town,Salem,2022,ages00_17,1051,249,0.25,0.052
+age,6_town,Salem,2022,ages18plus,3179,386,0.75,0.041
 age,6_town,Salem,2022,ages65plus,723,179,0.17,0.038
 age,6_town,Salisbury,2022,total_pop,4170,516,NA,NA
 age,6_town,Salisbury,2022,ages00_17,937,287,0.22,0.063
+age,6_town,Salisbury,2022,ages18plus,3233,429,0.78,0.037
 age,6_town,Salisbury,2022,ages65plus,1237,240,0.3,0.044
 age,6_town,Scotland,2022,total_pop,1542,206,NA,NA
 age,6_town,Scotland,2022,ages00_17,249,69,0.16,0.039
+age,6_town,Scotland,2022,ages18plus,1293,194,0.84,0.057
 age,6_town,Scotland,2022,ages65plus,224,49,0.15,0.025
 age,6_town,Seymour,2022,total_pop,16766,1164,NA,NA
 age,6_town,Seymour,2022,ages00_17,3515,610,0.21,0.033
+age,6_town,Seymour,2022,ages18plus,13251,992,0.79,0.022
 age,6_town,Seymour,2022,ages65plus,2684,437,0.16,0.024
 age,6_town,Sharon,2022,total_pop,2691,381,NA,NA
 age,6_town,Sharon,2022,ages00_17,368,122,0.14,0.041
+age,6_town,Sharon,2022,ages18plus,2323,361,0.86,0.055
 age,6_town,Sharon,2022,ages65plus,882,236,0.33,0.074
 age,6_town,Shelton,2022,total_pop,41206,1544,NA,NA
 age,6_town,Shelton,2022,ages00_17,7474,671,0.18,0.015
+age,6_town,Shelton,2022,ages18plus,33732,1391,0.82,0.014
 age,6_town,Shelton,2022,ages65plus,8249,613,0.2,0.013
 age,6_town,Sherman,2022,total_pop,3499,411,NA,NA
 age,6_town,Sherman,2022,ages00_17,522,110,0.15,0.026
+age,6_town,Sherman,2022,ages18plus,2977,396,0.85,0.053
 age,6_town,Sherman,2022,ages65plus,1000,258,0.29,0.066
 age,6_town,Simsbury,2022,total_pop,24617,1003,NA,NA
 age,6_town,Simsbury,2022,ages00_17,6121,558,0.25,0.02
+age,6_town,Simsbury,2022,ages18plus,18496,833,0.75,0.014
 age,6_town,Simsbury,2022,ages65plus,4462,352,0.18,0.012
 age,6_town,Somers,2022,total_pop,10086,711,NA,NA
 age,6_town,Somers,2022,ages00_17,2136,432,0.21,0.04
+age,6_town,Somers,2022,ages18plus,7950,565,0.79,0.007
 age,6_town,Somers,2022,ages65plus,1909,238,0.19,0.019
 age,6_town,South Windsor,2022,total_pop,26805,1265,NA,NA
 age,6_town,South Windsor,2022,ages00_17,6367,646,0.24,0.021
+age,6_town,South Windsor,2022,ages18plus,20438,1088,0.76,0.019
 age,6_town,South Windsor,2022,ages65plus,4202,411,0.16,0.013
 age,6_town,Southbury,2022,total_pop,19936,1138,NA,NA
 age,6_town,Southbury,2022,ages00_17,3909,613,0.2,0.029
+age,6_town,Southbury,2022,ages18plus,16027,958,0.8,0.014
 age,6_town,Southbury,2022,ages65plus,5911,502,0.3,0.019
 age,6_town,Southington,2022,total_pop,43569,1530,NA,NA
 age,6_town,Southington,2022,ages00_17,8961,655,0.21,0.013
+age,6_town,Southington,2022,ages18plus,34608,1382,0.79,0.015
 age,6_town,Southington,2022,ages65plus,8825,640,0.2,0.013
 age,6_town,Sprague,2022,total_pop,2964,304,NA,NA
 age,6_town,Sprague,2022,ages00_17,688,181,0.23,0.056
+age,6_town,Sprague,2022,ages18plus,2276,244,0.77,0.024
 age,6_town,Sprague,2022,ages65plus,513,102,0.17,0.029
 age,6_town,Stafford,2022,total_pop,11507,760,NA,NA
 age,6_town,Stafford,2022,ages00_17,2318,332,0.2,0.026
+age,6_town,Stafford,2022,ages18plus,9189,684,0.8,0.027
 age,6_town,Stafford,2022,ages65plus,2437,332,0.21,0.025
 age,6_town,Stamford,2022,total_pop,135413,2952,NA,NA
 age,6_town,Stamford,2022,ages00_17,25957,1352,0.19,0.009
+age,6_town,Stamford,2022,ages18plus,109456,2624,0.81,0.008
 age,6_town,Stamford,2022,ages65plus,20725,1172,0.15,0.008
 age,6_town,Sterling,2022,total_pop,3610,427,NA,NA
 age,6_town,Sterling,2022,ages00_17,812,209,0.22,0.051
+age,6_town,Sterling,2022,ages18plus,2798,372,0.78,0.047
 age,6_town,Sterling,2022,ages65plus,467,125,0.13,0.031
 age,6_town,Stonington,2022,total_pop,18397,892,NA,NA
 age,6_town,Stonington,2022,ages00_17,3325,402,0.18,0.02
+age,6_town,Stonington,2022,ages18plus,15072,796,0.82,0.017
 age,6_town,Stonington,2022,ages65plus,4898,426,0.27,0.019
 age,6_town,Stratford,2022,total_pop,52436,1710,NA,NA
 age,6_town,Stratford,2022,ages00_17,9274,676,0.18,0.012
+age,6_town,Stratford,2022,ages18plus,43162,1571,0.82,0.013
 age,6_town,Stratford,2022,ages65plus,11579,846,0.22,0.014
 age,6_town,Suffield,2022,total_pop,15676,1002,NA,NA
 age,6_town,Suffield,2022,ages00_17,2734,360,0.17,0.02
+age,6_town,Suffield,2022,ages18plus,12942,935,0.83,0.028
 age,6_town,Suffield,2022,ages65plus,2788,353,0.18,0.019
 age,6_town,Thomaston,2022,total_pop,7487,731,NA,NA
 age,6_town,Thomaston,2022,ages00_17,1711,414,0.23,0.051
+age,6_town,Thomaston,2022,ages18plus,5776,602,0.77,0.028
 age,6_town,Thomaston,2022,ages65plus,1208,229,0.16,0.026
 age,6_town,Thompson,2022,total_pop,9254,730,NA,NA
 age,6_town,Thompson,2022,ages00_17,1498,290,0.16,0.029
+age,6_town,Thompson,2022,ages18plus,7756,670,0.84,0.03
 age,6_town,Thompson,2022,ages65plus,1785,302,0.19,0.029
 age,6_town,Tolland,2022,total_pop,14601,984,NA,NA
 age,6_town,Tolland,2022,ages00_17,3364,442,0.23,0.026
+age,6_town,Tolland,2022,ages18plus,11237,879,0.77,0.031
 age,6_town,Tolland,2022,ages65plus,2412,353,0.17,0.021
 age,6_town,Torrington,2022,total_pop,35510,1400,NA,NA
 age,6_town,Torrington,2022,ages00_17,6764,571,0.19,0.014
+age,6_town,Torrington,2022,ages18plus,28746,1278,0.81,0.017
 age,6_town,Torrington,2022,ages65plus,5880,517,0.17,0.013
 age,6_town,Trumbull,2022,total_pop,36922,1455,NA,NA
 age,6_town,Trumbull,2022,ages00_17,10127,830,0.27,0.02
+age,6_town,Trumbull,2022,ages18plus,26795,1196,0.73,0.015
 age,6_town,Trumbull,2022,ages65plus,6252,533,0.17,0.013
 age,6_town,Union,2022,total_pop,917,116,NA,NA
 age,6_town,Union,2022,ages00_17,160,39,0.17,0.036
+age,6_town,Union,2022,ages18plus,757,110,0.83,0.059
 age,6_town,Union,2022,ages65plus,178,29,0.19,0.02
 age,6_town,Vernon,2022,total_pop,30289,1388,NA,NA
 age,6_town,Vernon,2022,ages00_17,5360,618,0.18,0.019
+age,6_town,Vernon,2022,ages18plus,24929,1243,0.82,0.016
 age,6_town,Vernon,2022,ages65plus,5209,478,0.17,0.014
 age,6_town,Voluntown,2022,total_pop,2567,270,NA,NA
 age,6_town,Voluntown,2022,ages00_17,419,99,0.16,0.035
+age,6_town,Voluntown,2022,ages18plus,2148,251,0.84,0.043
 age,6_town,Voluntown,2022,ages65plus,392,83,0.15,0.028
 age,6_town,Wallingford,2022,total_pop,44251,1593,NA,NA
 age,6_town,Wallingford,2022,ages00_17,7999,703,0.18,0.014
+age,6_town,Wallingford,2022,ages18plus,36252,1429,0.82,0.013
 age,6_town,Wallingford,2022,ages65plus,9358,714,0.21,0.014
 age,6_town,Warren,2022,total_pop,1533,287,NA,NA
 age,6_town,Warren,2022,ages00_17,201,65,0.13,0.035
+age,6_town,Warren,2022,ages18plus,1332,280,0.87,0.083
 age,6_town,Warren,2022,ages65plus,324,51,0.21,0.052
 age,6_town,Washington,2022,total_pop,3651,444,NA,NA
 age,6_town,Washington,2022,ages00_17,781,224,0.21,0.056
+age,6_town,Washington,2022,ages18plus,2870,383,0.79,0.043
 age,6_town,Washington,2022,ages65plus,861,170,0.24,0.037
 age,6_town,Waterbury,2022,total_pop,114480,2721,NA,NA
 age,6_town,Waterbury,2022,ages00_17,25949,1317,0.23,0.01
+age,6_town,Waterbury,2022,ages18plus,88531,2380,0.77,0.01
 age,6_town,Waterbury,2022,ages65plus,15928,998,0.14,0.008
 age,6_town,Waterford,2022,total_pop,19580,1031,NA,NA
 age,6_town,Waterford,2022,ages00_17,3717,485,0.19,0.023
+age,6_town,Waterford,2022,ages18plus,15863,909,0.81,0.018
 age,6_town,Waterford,2022,ages65plus,4088,379,0.21,0.016
 age,6_town,Watertown,2022,total_pop,22177,1328,NA,NA
 age,6_town,Watertown,2022,ages00_17,4109,597,0.19,0.025
+age,6_town,Watertown,2022,ages18plus,18068,1186,0.81,0.022
 age,6_town,Watertown,2022,ages65plus,4993,565,0.23,0.022
 age,6_town,West Hartford,2022,total_pop,64088,1765,NA,NA
 age,6_town,West Hartford,2022,ages00_17,14046,877,0.22,0.012
+age,6_town,West Hartford,2022,ages18plus,50042,1531,0.78,0.01
 age,6_town,West Hartford,2022,ages65plus,11949,704,0.19,0.01
 age,6_town,West Haven,2022,total_pop,55336,2140,NA,NA
 age,6_town,West Haven,2022,ages00_17,11104,1005,0.2,0.016
+age,6_town,West Haven,2022,ages18plus,44232,1889,0.8,0.014
 age,6_town,West Haven,2022,ages65plus,8070,694,0.15,0.011
 age,6_town,Westbrook,2022,total_pop,6816,646,NA,NA
 age,6_town,Westbrook,2022,ages00_17,766,195,0.11,0.027
+age,6_town,Westbrook,2022,ages18plus,6050,616,0.89,0.033
 age,6_town,Westbrook,2022,ages65plus,2176,390,0.32,0.049
 age,6_town,Weston,2022,total_pop,10336,659,NA,NA
 age,6_town,Weston,2022,ages00_17,2786,344,0.27,0.029
+age,6_town,Weston,2022,ages18plus,7550,563,0.73,0.028
 age,6_town,Weston,2022,ages65plus,1507,237,0.15,0.021
 age,6_town,Westport,2022,total_pop,27232,1197,NA,NA
 age,6_town,Westport,2022,ages00_17,7317,705,0.27,0.023
+age,6_town,Westport,2022,ages18plus,19915,968,0.73,0.015
 age,6_town,Westport,2022,ages65plus,4998,504,0.18,0.017
 age,6_town,Wethersfield,2022,total_pop,27192,1216,NA,NA
 age,6_town,Wethersfield,2022,ages00_17,5472,543,0.2,0.018
+age,6_town,Wethersfield,2022,ages18plus,21720,1088,0.8,0.018
 age,6_town,Wethersfield,2022,ages65plus,5704,556,0.21,0.018
 age,6_town,Willington,2022,total_pop,5586,736,NA,NA
 age,6_town,Willington,2022,ages00_17,732,272,0.13,0.046
+age,6_town,Willington,2022,ages18plus,4854,684,0.87,0.043
 age,6_town,Willington,2022,ages65plus,1184,370,0.21,0.06
 age,6_town,Wilton,2022,total_pop,18473,875,NA,NA
 age,6_town,Wilton,2022,ages00_17,4970,473,0.27,0.022
+age,6_town,Wilton,2022,ages18plus,13503,736,0.73,0.02
 age,6_town,Wilton,2022,ages65plus,2866,323,0.16,0.016
 age,6_town,Winchester,2022,total_pop,10278,855,NA,NA
 age,6_town,Winchester,2022,ages00_17,1626,343,0.16,0.031
+age,6_town,Winchester,2022,ages18plus,8652,784,0.84,0.03
 age,6_town,Winchester,2022,ages65plus,2567,445,0.25,0.038
 age,6_town,Windham,2022,total_pop,24450,1266,NA,NA
 age,6_town,Windham,2022,ages00_17,4013,515,0.16,0.019
+age,6_town,Windham,2022,ages18plus,20437,1156,0.84,0.019
 age,6_town,Windham,2022,ages65plus,3746,479,0.15,0.018
 age,6_town,Windsor,2022,total_pop,29445,1392,NA,NA
 age,6_town,Windsor,2022,ages00_17,5720,577,0.19,0.017
+age,6_town,Windsor,2022,ages18plus,23725,1267,0.81,0.02
 age,6_town,Windsor,2022,ages65plus,5299,546,0.18,0.016
 age,6_town,Windsor Locks,2022,total_pop,12563,900,NA,NA
 age,6_town,Windsor Locks,2022,ages00_17,2343,431,0.19,0.032
+age,6_town,Windsor Locks,2022,ages18plus,10220,791,0.81,0.024
 age,6_town,Windsor Locks,2022,ages65plus,2192,331,0.17,0.023
 age,6_town,Wolcott,2022,total_pop,16188,1077,NA,NA
 age,6_town,Wolcott,2022,ages00_17,3442,485,0.21,0.026
+age,6_town,Wolcott,2022,ages18plus,12746,961,0.79,0.028
 age,6_town,Wolcott,2022,ages65plus,3051,434,0.19,0.024
 age,6_town,Woodbridge,2022,total_pop,9050,710,NA,NA
 age,6_town,Woodbridge,2022,ages00_17,2409,394,0.27,0.038
+age,6_town,Woodbridge,2022,ages18plus,6641,591,0.73,0.031
 age,6_town,Woodbridge,2022,ages65plus,1859,257,0.21,0.023
 age,6_town,Woodbury,2022,total_pop,9775,792,NA,NA
 age,6_town,Woodbury,2022,ages00_17,1515,305,0.15,0.029
+age,6_town,Woodbury,2022,ages18plus,8260,731,0.85,0.03
 age,6_town,Woodbury,2022,ages65plus,2907,476,0.3,0.042
 age,6_town,Woodstock,2022,total_pop,8243,782,NA,NA
 age,6_town,Woodstock,2022,ages00_17,1782,324,0.22,0.034
+age,6_town,Woodstock,2022,ages18plus,6461,712,0.78,0.044
 age,6_town,Woodstock,2022,ages65plus,1441,326,0.17,0.036
 age,upper_legis,State Senate District 1,NA,total_pop,94997,2499,NA,NA
 age,upper_legis,State Senate District 1,NA,ages00_17,21590,1190,0.23,0.011
+age,upper_legis,State Senate District 1,NA,ages18plus,73407,2197,0.77,0.011
 age,upper_legis,State Senate District 1,NA,ages65plus,12654,882,0.13,0.009
 age,upper_legis,State Senate District 10,NA,total_pop,99482,2574,NA,NA
 age,upper_legis,State Senate District 10,NA,ages00_17,23417,1244,0.24,0.011
+age,upper_legis,State Senate District 10,NA,ages18plus,76065,2254,0.76,0.011
 age,upper_legis,State Senate District 10,NA,ages65plus,9826,699,0.1,0.007
 age,upper_legis,State Senate District 11,NA,total_pop,95520,2763,NA,NA
 age,upper_legis,State Senate District 11,NA,ages00_17,16936,1220,0.18,0.012
+age,upper_legis,State Senate District 11,NA,ages18plus,78584,2479,0.82,0.01
 age,upper_legis,State Senate District 11,NA,ages65plus,13677,910,0.14,0.009
 age,upper_legis,State Senate District 12,NA,total_pop,97553,2388,NA,NA
 age,upper_legis,State Senate District 12,NA,ages00_17,17479,1003,0.18,0.009
+age,upper_legis,State Senate District 12,NA,ages18plus,80074,2168,0.82,0.009
 age,upper_legis,State Senate District 12,NA,ages65plus,24013,1168,0.25,0.01
 age,upper_legis,State Senate District 13,NA,total_pop,98181,2533,NA,NA
 age,upper_legis,State Senate District 13,NA,ages00_17,21069,1273,0.21,0.012
+age,upper_legis,State Senate District 13,NA,ages18plus,77112,2190,0.79,0.009
 age,upper_legis,State Senate District 13,NA,ages65plus,16723,879,0.17,0.008
 age,upper_legis,State Senate District 14,NA,total_pop,94495,2293,NA,NA
 age,upper_legis,State Senate District 14,NA,ages00_17,17395,1076,0.18,0.01
+age,upper_legis,State Senate District 14,NA,ages18plus,77100,2025,0.82,0.008
 age,upper_legis,State Senate District 14,NA,ages65plus,19112,900,0.2,0.008
 age,upper_legis,State Senate District 15,NA,total_pop,104993,2625,NA,NA
 age,upper_legis,State Senate District 15,NA,ages00_17,23787,1337,0.23,0.011
+age,upper_legis,State Senate District 15,NA,ages18plus,81206,2259,0.77,0.009
 age,upper_legis,State Senate District 15,NA,ages65plus,14186,893,0.14,0.008
 age,upper_legis,State Senate District 16,NA,total_pop,102121,2620,NA,NA
 age,upper_legis,State Senate District 16,NA,ages00_17,21543,1249,0.21,0.011
+age,upper_legis,State Senate District 16,NA,ages18plus,80578,2303,0.79,0.01
 age,upper_legis,State Senate District 16,NA,ages65plus,19253,1031,0.19,0.009
 age,upper_legis,State Senate District 17,NA,total_pop,100171,2679,NA,NA
 age,upper_legis,State Senate District 17,NA,ages00_17,19990,1235,0.2,0.011
+age,upper_legis,State Senate District 17,NA,ages18plus,80181,2378,0.8,0.01
 age,upper_legis,State Senate District 17,NA,ages65plus,17149,1032,0.17,0.009
 age,upper_legis,State Senate District 18,NA,total_pop,99308,2270,NA,NA
 age,upper_legis,State Senate District 18,NA,ages00_17,18872,1058,0.19,0.01
+age,upper_legis,State Senate District 18,NA,ages18plus,80436,2008,0.81,0.008
 age,upper_legis,State Senate District 18,NA,ages65plus,19533,992,0.2,0.009
 age,upper_legis,State Senate District 19,NA,total_pop,98363,2324,NA,NA
 age,upper_legis,State Senate District 19,NA,ages00_17,20405,1095,0.21,0.01
+age,upper_legis,State Senate District 19,NA,ages18plus,77958,2050,0.79,0.009
 age,upper_legis,State Senate District 19,NA,ages65plus,18326,981,0.19,0.009
 age,upper_legis,State Senate District 2,NA,total_pop,95342,2428,NA,NA
 age,upper_legis,State Senate District 2,NA,ages00_17,19074,1153,0.2,0.011
+age,upper_legis,State Senate District 2,NA,ages18plus,76268,2137,0.8,0.009
 age,upper_legis,State Senate District 2,NA,ages65plus,15604,907,0.16,0.009
 age,upper_legis,State Senate District 20,NA,total_pop,96361,2220,NA,NA
 age,upper_legis,State Senate District 20,NA,ages00_17,17630,995,0.18,0.009
+age,upper_legis,State Senate District 20,NA,ages18plus,78731,1985,0.82,0.008
 age,upper_legis,State Senate District 20,NA,ages65plus,19571,922,0.2,0.008
 age,upper_legis,State Senate District 21,NA,total_pop,107174,2526,NA,NA
 age,upper_legis,State Senate District 21,NA,ages00_17,19891,1125,0.19,0.01
+age,upper_legis,State Senate District 21,NA,ages18plus,87283,2262,0.81,0.009
 age,upper_legis,State Senate District 21,NA,ages65plus,22209,1092,0.21,0.009
 age,upper_legis,State Senate District 22,NA,total_pop,108552,2858,NA,NA
 age,upper_legis,State Senate District 22,NA,ages00_17,23205,1220,0.21,0.01
+age,upper_legis,State Senate District 22,NA,ages18plus,85347,2585,0.79,0.012
 age,upper_legis,State Senate District 22,NA,ages65plus,17602,1137,0.16,0.01
 age,upper_legis,State Senate District 23,NA,total_pop,88117,2159,NA,NA
 age,upper_legis,State Senate District 23,NA,ages00_17,20633,855,0.23,0.008
+age,upper_legis,State Senate District 23,NA,ages18plus,67484,1982,0.77,0.012
 age,upper_legis,State Senate District 23,NA,ages65plus,10381,813,0.12,0.009
 age,upper_legis,State Senate District 24,NA,total_pop,103989,2693,NA,NA
 age,upper_legis,State Senate District 24,NA,ages00_17,22277,1391,0.21,0.012
+age,upper_legis,State Senate District 24,NA,ages18plus,81712,2307,0.79,0.009
 age,upper_legis,State Senate District 24,NA,ages65plus,15474,988,0.15,0.009
 age,upper_legis,State Senate District 25,NA,total_pop,101759,2508,NA,NA
 age,upper_legis,State Senate District 25,NA,ages00_17,20794,1158,0.2,0.01
+age,upper_legis,State Senate District 25,NA,ages18plus,80965,2224,0.8,0.01
 age,upper_legis,State Senate District 25,NA,ages65plus,16132,974,0.16,0.009
 age,upper_legis,State Senate District 26,NA,total_pop,101519,2247,NA,NA
 age,upper_legis,State Senate District 26,NA,ages00_17,26113,1273,0.26,0.011
+age,upper_legis,State Senate District 26,NA,ages18plus,75406,1851,0.74,0.008
 age,upper_legis,State Senate District 26,NA,ages65plus,17236,815,0.17,0.007
 age,upper_legis,State Senate District 27,NA,total_pop,106267,2740,NA,NA
 age,upper_legis,State Senate District 27,NA,ages00_17,21237,1259,0.2,0.011
+age,upper_legis,State Senate District 27,NA,ages18plus,85030,2434,0.8,0.01
 age,upper_legis,State Senate District 27,NA,ages65plus,15017,1037,0.14,0.009
 age,upper_legis,State Senate District 28,NA,total_pop,106095,2382,NA,NA
 age,upper_legis,State Senate District 28,NA,ages00_17,25432,1214,0.24,0.01
+age,upper_legis,State Senate District 28,NA,ages18plus,80663,2049,0.76,0.009
 age,upper_legis,State Senate District 28,NA,ages65plus,17295,847,0.16,0.007
 age,upper_legis,State Senate District 29,NA,total_pop,107374,2412,NA,NA
 age,upper_legis,State Senate District 29,NA,ages00_17,17662,1020,0.16,0.009
+age,upper_legis,State Senate District 29,NA,ages18plus,89712,2186,0.84,0.008
 age,upper_legis,State Senate District 29,NA,ages65plus,16170,838,0.15,0.007
 age,upper_legis,State Senate District 3,NA,total_pop,100265,2682,NA,NA
 age,upper_legis,State Senate District 3,NA,ages00_17,21532,1291,0.21,0.012
+age,upper_legis,State Senate District 3,NA,ages18plus,78733,2351,0.79,0.01
 age,upper_legis,State Senate District 3,NA,ages65plus,15439,937,0.15,0.008
 age,upper_legis,State Senate District 30,NA,total_pop,103466,2368,NA,NA
 age,upper_legis,State Senate District 30,NA,ages00_17,20294,1086,0.2,0.009
+age,upper_legis,State Senate District 30,NA,ages18plus,83172,2104,0.8,0.009
 age,upper_legis,State Senate District 30,NA,ages65plus,21439,936,0.21,0.008
 age,upper_legis,State Senate District 31,NA,total_pop,99752,2445,NA,NA
 age,upper_legis,State Senate District 31,NA,ages00_17,20242,1180,0.2,0.011
+age,upper_legis,State Senate District 31,NA,ages18plus,79510,2141,0.8,0.009
 age,upper_legis,State Senate District 31,NA,ages65plus,16509,874,0.17,0.008
 age,upper_legis,State Senate District 32,NA,total_pop,104554,2587,NA,NA
 age,upper_legis,State Senate District 32,NA,ages00_17,19971,1255,0.19,0.011
+age,upper_legis,State Senate District 32,NA,ages18plus,84583,2262,0.81,0.008
 age,upper_legis,State Senate District 32,NA,ages65plus,24038,1111,0.23,0.009
 age,upper_legis,State Senate District 33,NA,total_pop,98783,2096,NA,NA
 age,upper_legis,State Senate District 33,NA,ages00_17,19097,904,0.19,0.008
+age,upper_legis,State Senate District 33,NA,ages18plus,79686,1890,0.81,0.009
 age,upper_legis,State Senate District 33,NA,ages65plus,21362,938,0.22,0.008
 age,upper_legis,State Senate District 34,NA,total_pop,96104,2323,NA,NA
 age,upper_legis,State Senate District 34,NA,ages00_17,18165,1025,0.19,0.01
+age,upper_legis,State Senate District 34,NA,ages18plus,77939,2084,0.81,0.009
 age,upper_legis,State Senate District 34,NA,ages65plus,20134,1029,0.21,0.009
 age,upper_legis,State Senate District 35,NA,total_pop,97470,2498,NA,NA
 age,upper_legis,State Senate District 35,NA,ages00_17,18999,1096,0.19,0.01
+age,upper_legis,State Senate District 35,NA,ages18plus,78471,2244,0.81,0.01
 age,upper_legis,State Senate District 35,NA,ages65plus,17821,979,0.18,0.009
 age,upper_legis,State Senate District 36,NA,total_pop,102598,2219,NA,NA
 age,upper_legis,State Senate District 36,NA,ages00_17,24640,1086,0.24,0.009
+age,upper_legis,State Senate District 36,NA,ages18plus,77958,1935,0.76,0.009
 age,upper_legis,State Senate District 36,NA,ages65plus,18358,884,0.18,0.008
 age,upper_legis,State Senate District 4,NA,total_pop,102626,2373,NA,NA
 age,upper_legis,State Senate District 4,NA,ages00_17,20950,1096,0.2,0.01
+age,upper_legis,State Senate District 4,NA,ages18plus,81676,2105,0.8,0.009
 age,upper_legis,State Senate District 4,NA,ages65plus,18165,996,0.18,0.009
 age,upper_legis,State Senate District 5,NA,total_pop,99330,2139,NA,NA
 age,upper_legis,State Senate District 5,NA,ages00_17,21521,1034,0.22,0.009
+age,upper_legis,State Senate District 5,NA,ages18plus,77809,1872,0.78,0.008
 age,upper_legis,State Senate District 5,NA,ages65plus,18235,891,0.18,0.008
 age,upper_legis,State Senate District 6,NA,total_pop,97520,2691,NA,NA
 age,upper_legis,State Senate District 6,NA,ages00_17,22062,1325,0.23,0.012
+age,upper_legis,State Senate District 6,NA,ages18plus,75458,2342,0.77,0.011
 age,upper_legis,State Senate District 6,NA,ages65plus,15127,997,0.16,0.009
 age,upper_legis,State Senate District 7,NA,total_pop,99972,2335,NA,NA
 age,upper_legis,State Senate District 7,NA,ages00_17,19973,1188,0.2,0.011
+age,upper_legis,State Senate District 7,NA,ages18plus,79999,2010,0.8,0.007
 age,upper_legis,State Senate District 7,NA,ages65plus,17865,834,0.18,0.007
 age,upper_legis,State Senate District 8,NA,total_pop,100147,2212,NA,NA
 age,upper_legis,State Senate District 8,NA,ages00_17,22155,1075,0.22,0.01
+age,upper_legis,State Senate District 8,NA,ages18plus,77992,1934,0.78,0.009
 age,upper_legis,State Senate District 8,NA,ages65plus,18793,902,0.19,0.008
 age,upper_legis,State Senate District 9,NA,total_pop,100997,2453,NA,NA
 age,upper_legis,State Senate District 9,NA,ages00_17,16845,971,0.17,0.009
+age,upper_legis,State Senate District 9,NA,ages18plus,84152,2253,0.83,0.009
 age,upper_legis,State Senate District 9,NA,ages65plus,18680,1035,0.18,0.009
 age,lower_legis,State House District 1,NA,total_pop,21973,1280,NA,NA
 age,lower_legis,State House District 1,NA,ages00_17,5290,688,0.24,0.028
+age,lower_legis,State House District 1,NA,ages18plus,16683,1080,0.76,0.021
 age,lower_legis,State House District 1,NA,ages65plus,2584,390,0.12,0.016
 age,lower_legis,State House District 10,NA,total_pop,22805,1330,NA,NA
 age,lower_legis,State House District 10,NA,ages00_17,4439,606,0.19,0.024
+age,lower_legis,State House District 10,NA,ages18plus,18366,1184,0.81,0.022
 age,lower_legis,State House District 10,NA,ages65plus,3428,382,0.15,0.014
 age,lower_legis,State House District 100,NA,total_pop,22911,1107,NA,NA
 age,lower_legis,State House District 100,NA,ages00_17,4040,479,0.18,0.019
+age,lower_legis,State House District 100,NA,ages18plus,18871,998,0.82,0.018
 age,lower_legis,State House District 100,NA,ages65plus,4540,472,0.2,0.018
 age,lower_legis,State House District 101,NA,total_pop,22964,1210,NA,NA
 age,lower_legis,State House District 101,NA,ages00_17,4290,468,0.19,0.018
+age,lower_legis,State House District 101,NA,ages18plus,18674,1116,0.81,0.023
 age,lower_legis,State House District 101,NA,ages65plus,5307,503,0.23,0.018
 age,lower_legis,State House District 102,NA,total_pop,23244,1238,NA,NA
 age,lower_legis,State House District 102,NA,ages00_17,3535,478,0.15,0.019
+age,lower_legis,State House District 102,NA,ages18plus,19709,1142,0.85,0.019
 age,lower_legis,State House District 102,NA,ages65plus,5838,602,0.25,0.022
 age,lower_legis,State House District 103,NA,total_pop,24049,1231,NA,NA
 age,lower_legis,State House District 103,NA,ages00_17,4541,538,0.19,0.02
+age,lower_legis,State House District 103,NA,ages18plus,19508,1108,0.81,0.02
 age,lower_legis,State House District 103,NA,ages65plus,4223,441,0.18,0.016
 age,lower_legis,State House District 104,NA,total_pop,23982,1443,NA,NA
 age,lower_legis,State House District 104,NA,ages00_17,4639,644,0.19,0.024
+age,lower_legis,State House District 104,NA,ages18plus,19343,1291,0.81,0.023
 age,lower_legis,State House District 104,NA,ages65plus,4467,609,0.19,0.023
 age,lower_legis,State House District 105,NA,total_pop,23460,1336,NA,NA
 age,lower_legis,State House District 105,NA,ages00_17,4512,679,0.19,0.027
+age,lower_legis,State House District 105,NA,ages18plus,18948,1150,0.81,0.017
 age,lower_legis,State House District 105,NA,ages65plus,4434,547,0.19,0.021
 age,lower_legis,State House District 106,NA,total_pop,25336,1144,NA,NA
 age,lower_legis,State House District 106,NA,ages00_17,5656,605,0.22,0.022
+age,lower_legis,State House District 106,NA,ages18plus,19680,971,0.78,0.015
 age,lower_legis,State House District 106,NA,ages65plus,4893,462,0.19,0.016
 age,lower_legis,State House District 107,NA,total_pop,24457,1150,NA,NA
 age,lower_legis,State House District 107,NA,ages00_17,5256,542,0.21,0.02
+age,lower_legis,State House District 107,NA,ages18plus,19201,1014,0.79,0.019
 age,lower_legis,State House District 107,NA,ages65plus,4632,492,0.19,0.018
 age,lower_legis,State House District 108,NA,total_pop,25342,1187,NA,NA
 age,lower_legis,State House District 108,NA,ages00_17,5064,628,0.2,0.023
+age,lower_legis,State House District 108,NA,ages18plus,20278,1007,0.8,0.013
 age,lower_legis,State House District 108,NA,ages65plus,4780,484,0.19,0.017
 age,lower_legis,State House District 109,NA,total_pop,23685,1379,NA,NA
 age,lower_legis,State House District 109,NA,ages00_17,5607,779,0.24,0.03
+age,lower_legis,State House District 109,NA,ages18plus,18078,1137,0.76,0.018
 age,lower_legis,State House District 109,NA,ages65plus,3405,434,0.14,0.016
 age,lower_legis,State House District 11,NA,total_pop,24033,1363,NA,NA
 age,lower_legis,State House District 11,NA,ages00_17,5683,714,0.24,0.027
+age,lower_legis,State House District 11,NA,ages18plus,18350,1161,0.76,0.021
 age,lower_legis,State House District 11,NA,ages65plus,2491,296,0.1,0.011
 age,lower_legis,State House District 110,NA,total_pop,24781,1622,NA,NA
 age,lower_legis,State House District 110,NA,ages00_17,5123,771,0.21,0.028
+age,lower_legis,State House District 110,NA,ages18plus,19658,1427,0.79,0.025
 age,lower_legis,State House District 110,NA,ages65plus,2923,524,0.12,0.02
 age,lower_legis,State House District 111,NA,total_pop,23262,1087,NA,NA
 age,lower_legis,State House District 111,NA,ages00_17,5929,569,0.25,0.021
+age,lower_legis,State House District 111,NA,ages18plus,17333,926,0.75,0.019
 age,lower_legis,State House District 111,NA,ages65plus,4401,458,0.19,0.018
 age,lower_legis,State House District 112,NA,total_pop,24057,1210,NA,NA
 age,lower_legis,State House District 112,NA,ages00_17,6004,606,0.25,0.022
+age,lower_legis,State House District 112,NA,ages18plus,18053,1047,0.75,0.022
 age,lower_legis,State House District 112,NA,ages65plus,3878,426,0.16,0.016
 age,lower_legis,State House District 113,NA,total_pop,25152,1300,NA,NA
 age,lower_legis,State House District 113,NA,ages00_17,4369,531,0.17,0.019
+age,lower_legis,State House District 113,NA,ages18plus,20783,1187,0.83,0.02
 age,lower_legis,State House District 113,NA,ages65plus,4570,479,0.18,0.017
 age,lower_legis,State House District 114,NA,total_pop,23245,1247,NA,NA
 age,lower_legis,State House District 114,NA,ages00_17,5093,624,0.22,0.024
+age,lower_legis,State House District 114,NA,ages18plus,18152,1079,0.78,0.02
 age,lower_legis,State House District 114,NA,ages65plus,4848,473,0.21,0.017
 age,lower_legis,State House District 115,NA,total_pop,22896,1284,NA,NA
 age,lower_legis,State House District 115,NA,ages00_17,4398,613,0.19,0.025
+age,lower_legis,State House District 115,NA,ages18plus,18498,1129,0.81,0.019
 age,lower_legis,State House District 115,NA,ages65plus,3230,383,0.14,0.015
 age,lower_legis,State House District 116,NA,total_pop,21988,1406,NA,NA
 age,lower_legis,State House District 116,NA,ages00_17,5045,710,0.23,0.029
+age,lower_legis,State House District 116,NA,ages18plus,16943,1213,0.77,0.025
 age,lower_legis,State House District 116,NA,ages65plus,2586,388,0.12,0.016
 age,lower_legis,State House District 117,NA,total_pop,24218,1343,NA,NA
 age,lower_legis,State House District 117,NA,ages00_17,3872,550,0.16,0.021
+age,lower_legis,State House District 117,NA,ages18plus,20346,1225,0.84,0.02
 age,lower_legis,State House District 117,NA,ages65plus,5734,574,0.24,0.02
 age,lower_legis,State House District 118,NA,total_pop,22325,1199,NA,NA
 age,lower_legis,State House District 118,NA,ages00_17,3648,601,0.16,0.025
+age,lower_legis,State House District 118,NA,ages18plus,18677,1037,0.84,0.012
 age,lower_legis,State House District 118,NA,ages65plus,4546,479,0.2,0.018
 age,lower_legis,State House District 119,NA,total_pop,24924,1094,NA,NA
 age,lower_legis,State House District 119,NA,ages00_17,5217,535,0.21,0.019
+age,lower_legis,State House District 119,NA,ages18plus,19707,955,0.79,0.016
 age,lower_legis,State House District 119,NA,ages65plus,4642,460,0.19,0.017
 age,lower_legis,State House District 12,NA,total_pop,23316,1143,NA,NA
 age,lower_legis,State House District 12,NA,ages00_17,4248,461,0.18,0.018
+age,lower_legis,State House District 12,NA,ages18plus,19068,1045,0.82,0.02
 age,lower_legis,State House District 12,NA,ages65plus,3862,470,0.17,0.018
 age,lower_legis,State House District 120,NA,total_pop,26065,1207,NA,NA
 age,lower_legis,State House District 120,NA,ages00_17,4769,496,0.18,0.017
+age,lower_legis,State House District 120,NA,ages18plus,21296,1101,0.82,0.019
 age,lower_legis,State House District 120,NA,ages65plus,5361,506,0.21,0.017
 age,lower_legis,State House District 121,NA,total_pop,20716,1099,NA,NA
 age,lower_legis,State House District 121,NA,ages00_17,3811,434,0.18,0.019
+age,lower_legis,State House District 121,NA,ages18plus,16905,1009,0.82,0.022
 age,lower_legis,State House District 121,NA,ages65plus,3799,515,0.18,0.023
 age,lower_legis,State House District 122,NA,total_pop,24602,1223,NA,NA
 age,lower_legis,State House District 122,NA,ages00_17,4531,549,0.18,0.02
+age,lower_legis,State House District 122,NA,ages18plus,20071,1093,0.82,0.018
 age,lower_legis,State House District 122,NA,ages65plus,6525,623,0.27,0.022
 age,lower_legis,State House District 123,NA,total_pop,25263,1263,NA,NA
 age,lower_legis,State House District 123,NA,ages00_17,7159,746,0.28,0.026
+age,lower_legis,State House District 123,NA,ages18plus,18104,1019,0.72,0.019
 age,lower_legis,State House District 123,NA,ages65plus,4477,465,0.18,0.016
 age,lower_legis,State House District 124,NA,total_pop,21184,1203,NA,NA
 age,lower_legis,State House District 124,NA,ages00_17,5337,666,0.25,0.028
+age,lower_legis,State House District 124,NA,ages18plus,15847,1002,0.75,0.021
 age,lower_legis,State House District 124,NA,ages65plus,2930,410,0.14,0.018
 age,lower_legis,State House District 125,NA,total_pop,22440,1100,NA,NA
 age,lower_legis,State House District 125,NA,ages00_17,5502,502,0.25,0.019
+age,lower_legis,State House District 125,NA,ages18plus,16938,978,0.75,0.023
 age,lower_legis,State House District 125,NA,ages65plus,4038,447,0.18,0.018
 age,lower_legis,State House District 126,NA,total_pop,23660,1342,NA,NA
 age,lower_legis,State House District 126,NA,ages00_17,4813,532,0.2,0.019
+age,lower_legis,State House District 126,NA,ages18plus,18847,1232,0.8,0.026
 age,lower_legis,State House District 126,NA,ages65plus,3761,642,0.16,0.026
 age,lower_legis,State House District 127,NA,total_pop,30116,1947,NA,NA
 age,lower_legis,State House District 127,NA,ages00_17,5137,721,0.17,0.021
+age,lower_legis,State House District 127,NA,ages18plus,24979,1809,0.83,0.027
 age,lower_legis,State House District 127,NA,ages65plus,4124,562,0.14,0.016
 age,lower_legis,State House District 128,NA,total_pop,19326,1181,NA,NA
 age,lower_legis,State House District 128,NA,ages00_17,5203,493,0.27,0.019
+age,lower_legis,State House District 128,NA,ages18plus,14123,1073,0.73,0.033
 age,lower_legis,State House District 128,NA,ages65plus,1758,384,0.09,0.019
 age,lower_legis,State House District 129,NA,total_pop,26503,1728,NA,NA
 age,lower_legis,State House District 129,NA,ages00_17,4292,577,0.16,0.019
+age,lower_legis,State House District 129,NA,ages18plus,22211,1628,0.84,0.028
 age,lower_legis,State House District 129,NA,ages65plus,3421,657,0.13,0.023
 age,lower_legis,State House District 13,NA,total_pop,23429,1366,NA,NA
 age,lower_legis,State House District 13,NA,ages00_17,4950,741,0.21,0.029
+age,lower_legis,State House District 13,NA,ages18plus,18479,1148,0.79,0.017
 age,lower_legis,State House District 13,NA,ages65plus,3732,364,0.16,0.012
 age,lower_legis,State House District 130,NA,total_pop,21281,1228,NA,NA
 age,lower_legis,State House District 130,NA,ages00_17,4610,503,0.22,0.02
+age,lower_legis,State House District 130,NA,ages18plus,16671,1121,0.78,0.027
 age,lower_legis,State House District 130,NA,ages65plus,2365,366,0.11,0.016
 age,lower_legis,State House District 131,NA,total_pop,22090,1342,NA,NA
 age,lower_legis,State House District 131,NA,ages00_17,4546,687,0.21,0.028
+age,lower_legis,State House District 131,NA,ages18plus,17544,1153,0.79,0.02
 age,lower_legis,State House District 131,NA,ages65plus,4432,468,0.2,0.017
 age,lower_legis,State House District 132,NA,total_pop,25020,1253,NA,NA
 age,lower_legis,State House District 132,NA,ages00_17,5454,527,0.22,0.018
+age,lower_legis,State House District 132,NA,ages18plus,19566,1137,0.78,0.023
 age,lower_legis,State House District 132,NA,ages65plus,3293,356,0.13,0.013
 age,lower_legis,State House District 133,NA,total_pop,24864,1203,NA,NA
 age,lower_legis,State House District 133,NA,ages00_17,5615,617,0.23,0.022
+age,lower_legis,State House District 133,NA,ages18plus,19249,1033,0.77,0.018
 age,lower_legis,State House District 133,NA,ages65plus,5120,537,0.21,0.019
 age,lower_legis,State House District 134,NA,total_pop,25290,1202,NA,NA
 age,lower_legis,State House District 134,NA,ages00_17,7031,663,0.28,0.023
+age,lower_legis,State House District 134,NA,ages18plus,18259,1002,0.72,0.02
 age,lower_legis,State House District 134,NA,ages65plus,3929,392,0.16,0.014
 age,lower_legis,State House District 135,NA,total_pop,23609,1011,NA,NA
 age,lower_legis,State House District 135,NA,ages00_17,5596,483,0.24,0.018
+age,lower_legis,State House District 135,NA,ages18plus,18013,888,0.76,0.019
 age,lower_legis,State House District 135,NA,ages65plus,4328,422,0.18,0.016
 age,lower_legis,State House District 136,NA,total_pop,23520,1105,NA,NA
 age,lower_legis,State House District 136,NA,ages00_17,6395,640,0.27,0.024
+age,lower_legis,State House District 136,NA,ages18plus,17125,900,0.73,0.017
 age,lower_legis,State House District 136,NA,ages65plus,4212,418,0.18,0.016
 age,lower_legis,State House District 137,NA,total_pop,22210,1271,NA,NA
 age,lower_legis,State House District 137,NA,ages00_17,3238,496,0.15,0.021
+age,lower_legis,State House District 137,NA,ages18plus,18972,1170,0.85,0.02
 age,lower_legis,State House District 137,NA,ages65plus,3447,421,0.16,0.017
 age,lower_legis,State House District 138,NA,total_pop,24159,1305,NA,NA
 age,lower_legis,State House District 138,NA,ages00_17,4970,623,0.21,0.023
+age,lower_legis,State House District 138,NA,ages18plus,19189,1147,0.79,0.02
 age,lower_legis,State House District 138,NA,ages65plus,3787,532,0.16,0.02
 age,lower_legis,State House District 139,NA,total_pop,25261,1296,NA,NA
 age,lower_legis,State House District 139,NA,ages00_17,4709,590,0.19,0.021
+age,lower_legis,State House District 139,NA,ages18plus,20552,1154,0.81,0.019
 age,lower_legis,State House District 139,NA,ages65plus,5241,563,0.21,0.02
 age,lower_legis,State House District 14,NA,total_pop,23234,1185,NA,NA
 age,lower_legis,State House District 14,NA,ages00_17,5413,589,0.23,0.022
+age,lower_legis,State House District 14,NA,ages18plus,17821,1028,0.77,0.021
 age,lower_legis,State House District 14,NA,ages65plus,3850,394,0.17,0.015
 age,lower_legis,State House District 140,NA,total_pop,26020,1503,NA,NA
 age,lower_legis,State House District 140,NA,ages00_17,6301,749,0.24,0.025
+age,lower_legis,State House District 140,NA,ages18plus,19719,1303,0.76,0.024
 age,lower_legis,State House District 140,NA,ages65plus,3066,536,0.12,0.019
 age,lower_legis,State House District 141,NA,total_pop,23710,1010,NA,NA
 age,lower_legis,State House District 141,NA,ages00_17,7332,533,0.31,0.018
+age,lower_legis,State House District 141,NA,ages18plus,16378,858,0.69,0.021
 age,lower_legis,State House District 141,NA,ages65plus,3167,425,0.13,0.017
 age,lower_legis,State House District 142,NA,total_pop,22896,1252,NA,NA
 age,lower_legis,State House District 142,NA,ages00_17,4282,553,0.19,0.022
+age,lower_legis,State House District 142,NA,ages18plus,18614,1124,0.81,0.021
 age,lower_legis,State House District 142,NA,ages65plus,3930,441,0.17,0.017
 age,lower_legis,State House District 143,NA,total_pop,23542,1181,NA,NA
 age,lower_legis,State House District 143,NA,ages00_17,4543,530,0.19,0.02
+age,lower_legis,State House District 143,NA,ages18plus,18999,1055,0.81,0.019
 age,lower_legis,State House District 143,NA,ages65plus,4587,495,0.19,0.019
 age,lower_legis,State House District 144,NA,total_pop,21966,1229,NA,NA
 age,lower_legis,State House District 144,NA,ages00_17,3336,444,0.15,0.018
+age,lower_legis,State House District 144,NA,ages18plus,18630,1146,0.85,0.022
 age,lower_legis,State House District 144,NA,ages65plus,3460,478,0.16,0.02
 age,lower_legis,State House District 145,NA,total_pop,26830,1743,NA,NA
 age,lower_legis,State House District 145,NA,ages00_17,5630,779,0.21,0.026
+age,lower_legis,State House District 145,NA,ages18plus,21200,1560,0.79,0.027
 age,lower_legis,State House District 145,NA,ages65plus,3867,620,0.14,0.021
 age,lower_legis,State House District 146,NA,total_pop,24943,1480,NA,NA
 age,lower_legis,State House District 146,NA,ages00_17,4652,744,0.19,0.028
+age,lower_legis,State House District 146,NA,ages18plus,20291,1280,0.81,0.017
 age,lower_legis,State House District 146,NA,ages65plus,3108,502,0.12,0.019
 age,lower_legis,State House District 147,NA,total_pop,23129,1301,NA,NA
 age,lower_legis,State House District 147,NA,ages00_17,4757,647,0.21,0.025
+age,lower_legis,State House District 147,NA,ages18plus,18372,1129,0.79,0.02
 age,lower_legis,State House District 147,NA,ages65plus,4172,564,0.18,0.022
 age,lower_legis,State House District 148,NA,total_pop,23590,1393,NA,NA
 age,lower_legis,State House District 148,NA,ages00_17,4865,655,0.21,0.025
+age,lower_legis,State House District 148,NA,ages18plus,18725,1230,0.79,0.023
 age,lower_legis,State House District 148,NA,ages65plus,2804,411,0.12,0.016
 age,lower_legis,State House District 149,NA,total_pop,22800,1117,NA,NA
 age,lower_legis,State House District 149,NA,ages00_17,4396,506,0.19,0.02
+age,lower_legis,State House District 149,NA,ages18plus,18404,996,0.81,0.019
 age,lower_legis,State House District 149,NA,ages65plus,4995,504,0.22,0.019
 age,lower_legis,State House District 15,NA,total_pop,23287,1244,NA,NA
 age,lower_legis,State House District 15,NA,ages00_17,3517,502,0.15,0.02
+age,lower_legis,State House District 15,NA,ages18plus,19770,1138,0.85,0.018
 age,lower_legis,State House District 15,NA,ages65plus,5877,533,0.25,0.018
 age,lower_legis,State House District 150,NA,total_pop,23738,1169,NA,NA
 age,lower_legis,State House District 150,NA,ages00_17,6077,673,0.26,0.025
+age,lower_legis,State House District 150,NA,ages18plus,17661,956,0.74,0.017
 age,lower_legis,State House District 150,NA,ages65plus,3666,405,0.15,0.015
 age,lower_legis,State House District 151,NA,total_pop,24586,1035,NA,NA
 age,lower_legis,State House District 151,NA,ages00_17,7175,594,0.29,0.021
+age,lower_legis,State House District 151,NA,ages18plus,17411,847,0.71,0.017
 age,lower_legis,State House District 151,NA,ages65plus,4061,368,0.17,0.013
 age,lower_legis,State House District 16,NA,total_pop,24617,1003,NA,NA
 age,lower_legis,State House District 16,NA,ages00_17,6121,558,0.25,0.02
+age,lower_legis,State House District 16,NA,ages18plus,18496,833,0.75,0.014
 age,lower_legis,State House District 16,NA,ages65plus,4462,352,0.18,0.012
 age,lower_legis,State House District 17,NA,total_pop,24599,1216,NA,NA
 age,lower_legis,State House District 17,NA,ages00_17,5779,575,0.23,0.02
+age,lower_legis,State House District 17,NA,ages18plus,18820,1071,0.77,0.022
 age,lower_legis,State House District 17,NA,ages65plus,5127,583,0.21,0.021
 age,lower_legis,State House District 18,NA,total_pop,24696,1228,NA,NA
 age,lower_legis,State House District 18,NA,ages00_17,4687,521,0.19,0.019
+age,lower_legis,State House District 18,NA,ages18plus,20009,1112,0.81,0.02
 age,lower_legis,State House District 18,NA,ages65plus,4347,400,0.18,0.014
 age,lower_legis,State House District 19,NA,total_pop,24348,1004,NA,NA
 age,lower_legis,State House District 19,NA,ages00_17,5975,561,0.25,0.021
+age,lower_legis,State House District 19,NA,ages18plus,18373,832,0.75,0.014
 age,lower_legis,State House District 19,NA,ages65plus,4903,432,0.2,0.016
 age,lower_legis,State House District 2,NA,total_pop,23378,1283,NA,NA
 age,lower_legis,State House District 2,NA,ages00_17,4852,695,0.21,0.027
+age,lower_legis,State House District 2,NA,ages18plus,18526,1078,0.79,0.015
 age,lower_legis,State House District 2,NA,ages65plus,3703,439,0.16,0.017
 age,lower_legis,State House District 20,NA,total_pop,24681,1121,NA,NA
 age,lower_legis,State House District 20,NA,ages00_17,5380,584,0.22,0.021
+age,lower_legis,State House District 20,NA,ages18plus,19301,957,0.78,0.016
 age,lower_legis,State House District 20,NA,ages65plus,4646,460,0.19,0.017
 age,lower_legis,State House District 21,NA,total_pop,24391,1058,NA,NA
 age,lower_legis,State House District 21,NA,ages00_17,4834,462,0.2,0.017
+age,lower_legis,State House District 21,NA,ages18plus,19557,951,0.8,0.018
 age,lower_legis,State House District 21,NA,ages65plus,4912,462,0.2,0.017
 age,lower_legis,State House District 22,NA,total_pop,23249,1250,NA,NA
 age,lower_legis,State House District 22,NA,ages00_17,4021,482,0.17,0.019
+age,lower_legis,State House District 22,NA,ages18plus,19228,1153,0.83,0.022
 age,lower_legis,State House District 22,NA,ages65plus,4799,507,0.21,0.019
 age,lower_legis,State House District 23,NA,total_pop,23489,1056,NA,NA
 age,lower_legis,State House District 23,NA,ages00_17,3726,455,0.16,0.018
+age,lower_legis,State House District 23,NA,ages18plus,19763,953,0.84,0.015
 age,lower_legis,State House District 23,NA,ages65plus,6950,519,0.3,0.018
 age,lower_legis,State House District 24,NA,total_pop,24016,1314,NA,NA
 age,lower_legis,State House District 24,NA,ages00_17,6101,723,0.25,0.027
+age,lower_legis,State House District 24,NA,ages18plus,17915,1098,0.75,0.021
 age,lower_legis,State House District 24,NA,ages65plus,3203,418,0.13,0.016
 age,lower_legis,State House District 25,NA,total_pop,24505,1390,NA,NA
 age,lower_legis,State House District 25,NA,ages00_17,6722,822,0.27,0.03
+age,lower_legis,State House District 25,NA,ages18plus,17783,1121,0.73,0.02
 age,lower_legis,State House District 25,NA,ages65plus,2750,479,0.11,0.018
 age,lower_legis,State House District 26,NA,total_pop,22407,1437,NA,NA
 age,lower_legis,State House District 26,NA,ages00_17,4007,621,0.18,0.025
+age,lower_legis,State House District 26,NA,ages18plus,18400,1296,0.82,0.024
 age,lower_legis,State House District 26,NA,ages65plus,3496,377,0.16,0.014
 age,lower_legis,State House District 27,NA,total_pop,24596,1264,NA,NA
 age,lower_legis,State House District 27,NA,ages00_17,4215,468,0.17,0.017
+age,lower_legis,State House District 27,NA,ages18plus,20381,1174,0.83,0.022
 age,lower_legis,State House District 27,NA,ages65plus,4370,404,0.18,0.014
 age,lower_legis,State House District 28,NA,total_pop,24029,1144,NA,NA
 age,lower_legis,State House District 28,NA,ages00_17,5130,537,0.21,0.02
+age,lower_legis,State House District 28,NA,ages18plus,18899,1010,0.79,0.019
 age,lower_legis,State House District 28,NA,ages65plus,4683,497,0.19,0.018
 age,lower_legis,State House District 29,NA,total_pop,23868,1313,NA,NA
 age,lower_legis,State House District 29,NA,ages00_17,3994,504,0.17,0.019
+age,lower_legis,State House District 29,NA,ages18plus,19874,1213,0.83,0.022
 age,lower_legis,State House District 29,NA,ages65plus,5435,633,0.23,0.023
 age,lower_legis,State House District 3,NA,total_pop,23817,1344,NA,NA
 age,lower_legis,State House District 3,NA,ages00_17,5809,631,0.24,0.023
+age,lower_legis,State House District 3,NA,ages18plus,18008,1187,0.76,0.026
 age,lower_legis,State House District 3,NA,ages65plus,2315,393,0.1,0.016
 age,lower_legis,State House District 30,NA,total_pop,23252,1212,NA,NA
 age,lower_legis,State House District 30,NA,ages00_17,5227,556,0.22,0.021
+age,lower_legis,State House District 30,NA,ages18plus,18025,1077,0.78,0.023
 age,lower_legis,State House District 30,NA,ages65plus,5274,626,0.23,0.024
 age,lower_legis,State House District 31,NA,total_pop,25032,1219,NA,NA
 age,lower_legis,State House District 31,NA,ages00_17,5218,573,0.21,0.021
+age,lower_legis,State House District 31,NA,ages18plus,19814,1076,0.79,0.019
 age,lower_legis,State House District 31,NA,ages65plus,5485,585,0.22,0.021
 age,lower_legis,State House District 32,NA,total_pop,23659,1159,NA,NA
 age,lower_legis,State House District 32,NA,ages00_17,4856,526,0.21,0.02
+age,lower_legis,State House District 32,NA,ages18plus,18803,1033,0.79,0.02
 age,lower_legis,State House District 32,NA,ages65plus,4678,491,0.2,0.018
 age,lower_legis,State House District 33,NA,total_pop,25241,1306,NA,NA
 age,lower_legis,State House District 33,NA,ages00_17,3071,465,0.12,0.017
+age,lower_legis,State House District 33,NA,ages18plus,22170,1221,0.88,0.017
 age,lower_legis,State House District 33,NA,ages65plus,2920,374,0.12,0.014
 age,lower_legis,State House District 34,NA,total_pop,23421,1057,NA,NA
 age,lower_legis,State House District 34,NA,ages00_17,4863,552,0.21,0.022
+age,lower_legis,State House District 34,NA,ages18plus,18558,902,0.79,0.014
 age,lower_legis,State House District 34,NA,ages65plus,4808,469,0.21,0.018
 age,lower_legis,State House District 35,NA,total_pop,23357,1083,NA,NA
 age,lower_legis,State House District 35,NA,ages00_17,3828,420,0.16,0.016
+age,lower_legis,State House District 35,NA,ages18plus,19529,998,0.84,0.018
 age,lower_legis,State House District 35,NA,ages65plus,5279,524,0.23,0.02
 age,lower_legis,State House District 36,NA,total_pop,23431,1114,NA,NA
 age,lower_legis,State House District 36,NA,ages00_17,4458,466,0.19,0.018
+age,lower_legis,State House District 36,NA,ages18plus,18973,1011,0.81,0.019
 age,lower_legis,State House District 36,NA,ages65plus,5318,462,0.23,0.017
 age,lower_legis,State House District 37,NA,total_pop,25654,1172,NA,NA
 age,lower_legis,State House District 37,NA,ages00_17,5011,626,0.2,0.023
+age,lower_legis,State House District 37,NA,ages18plus,20643,991,0.8,0.012
 age,lower_legis,State House District 37,NA,ages65plus,5994,504,0.23,0.016
 age,lower_legis,State House District 38,NA,total_pop,24338,1207,NA,NA
 age,lower_legis,State House District 38,NA,ages00_17,4548,566,0.19,0.021
+age,lower_legis,State House District 38,NA,ages18plus,19790,1066,0.81,0.017
 age,lower_legis,State House District 38,NA,ages65plus,4818,422,0.2,0.014
 age,lower_legis,State House District 39,NA,total_pop,23770,1314,NA,NA
 age,lower_legis,State House District 39,NA,ages00_17,4119,508,0.17,0.019
+age,lower_legis,State House District 39,NA,ages18plus,19651,1211,0.83,0.023
 age,lower_legis,State House District 39,NA,ages65plus,3129,471,0.13,0.018
 age,lower_legis,State House District 4,NA,total_pop,23473,1332,NA,NA
 age,lower_legis,State House District 4,NA,ages00_17,5146,672,0.22,0.026
+age,lower_legis,State House District 4,NA,ages18plus,18327,1150,0.78,0.021
 age,lower_legis,State House District 4,NA,ages65plus,2550,430,0.11,0.017
 age,lower_legis,State House District 40,NA,total_pop,25218,1280,NA,NA
 age,lower_legis,State House District 40,NA,ages00_17,4876,577,0.19,0.021
+age,lower_legis,State House District 40,NA,ages18plus,20342,1143,0.81,0.019
 age,lower_legis,State House District 40,NA,ages65plus,3671,485,0.15,0.018
 age,lower_legis,State House District 41,NA,total_pop,23657,1145,NA,NA
 age,lower_legis,State House District 41,NA,ages00_17,3636,511,0.15,0.02
+age,lower_legis,State House District 41,NA,ages18plus,20021,1025,0.85,0.014
 age,lower_legis,State House District 41,NA,ages65plus,6972,614,0.29,0.022
 age,lower_legis,State House District 42,NA,total_pop,23715,996,NA,NA
 age,lower_legis,State House District 42,NA,ages00_17,6668,563,0.28,0.021
+age,lower_legis,State House District 42,NA,ages18plus,17047,822,0.72,0.017
 age,lower_legis,State House District 42,NA,ages65plus,3536,358,0.15,0.014
 age,lower_legis,State House District 43,NA,total_pop,24696,1207,NA,NA
 age,lower_legis,State House District 43,NA,ages00_17,5224,574,0.21,0.021
+age,lower_legis,State House District 43,NA,ages18plus,19472,1062,0.79,0.019
 age,lower_legis,State House District 43,NA,ages65plus,5053,532,0.2,0.019
 age,lower_legis,State House District 44,NA,total_pop,26586,1303,NA,NA
 age,lower_legis,State House District 44,NA,ages00_17,5847,677,0.22,0.023
+age,lower_legis,State House District 44,NA,ages18plus,20739,1113,0.78,0.017
 age,lower_legis,State House District 44,NA,ages65plus,3982,430,0.15,0.014
 age,lower_legis,State House District 45,NA,total_pop,23884,1221,NA,NA
 age,lower_legis,State House District 45,NA,ages00_17,4878,592,0.2,0.022
+age,lower_legis,State House District 45,NA,ages18plus,19006,1068,0.8,0.019
 age,lower_legis,State House District 45,NA,ages65plus,3969,456,0.17,0.017
 age,lower_legis,State House District 46,NA,total_pop,23867,1347,NA,NA
 age,lower_legis,State House District 46,NA,ages00_17,5053,676,0.21,0.026
+age,lower_legis,State House District 46,NA,ages18plus,18814,1166,0.79,0.02
 age,lower_legis,State House District 46,NA,ages65plus,4012,509,0.17,0.019
 age,lower_legis,State House District 47,NA,total_pop,25734,1230,NA,NA
 age,lower_legis,State House District 47,NA,ages00_17,5397,630,0.21,0.022
+age,lower_legis,State House District 47,NA,ages18plus,20337,1057,0.79,0.016
 age,lower_legis,State House District 47,NA,ages65plus,4608,450,0.18,0.015
 age,lower_legis,State House District 48,NA,total_pop,24649,1153,NA,NA
 age,lower_legis,State House District 48,NA,ages00_17,5507,577,0.22,0.021
+age,lower_legis,State House District 48,NA,ages18plus,19142,998,0.78,0.018
 age,lower_legis,State House District 48,NA,ages65plus,4206,435,0.17,0.016
 age,lower_legis,State House District 49,NA,total_pop,24450,1266,NA,NA
 age,lower_legis,State House District 49,NA,ages00_17,4013,515,0.16,0.019
+age,lower_legis,State House District 49,NA,ages18plus,20437,1156,0.84,0.019
 age,lower_legis,State House District 49,NA,ages65plus,3746,479,0.15,0.018
 age,lower_legis,State House District 5,NA,total_pop,25339,1331,NA,NA
 age,lower_legis,State House District 5,NA,ages00_17,6104,676,0.24,0.023
+age,lower_legis,State House District 5,NA,ages18plus,19235,1147,0.76,0.021
 age,lower_legis,State House District 5,NA,ages65plus,3381,455,0.13,0.017
 age,lower_legis,State House District 50,NA,total_pop,24832,1138,NA,NA
 age,lower_legis,State House District 50,NA,ages00_17,4806,501,0.19,0.018
+age,lower_legis,State House District 50,NA,ages18plus,20026,1021,0.81,0.018
 age,lower_legis,State House District 50,NA,ages65plus,4368,391,0.18,0.014
 age,lower_legis,State House District 51,NA,total_pop,23182,1129,NA,NA
 age,lower_legis,State House District 51,NA,ages00_17,4171,538,0.18,0.021
+age,lower_legis,State House District 51,NA,ages18plus,19011,993,0.82,0.015
 age,lower_legis,State House District 51,NA,ages65plus,4364,439,0.19,0.017
 age,lower_legis,State House District 52,NA,total_pop,26126,1197,NA,NA
 age,lower_legis,State House District 52,NA,ages00_17,5367,598,0.21,0.021
+age,lower_legis,State House District 52,NA,ages18plus,20759,1037,0.79,0.016
 age,lower_legis,State House District 52,NA,ages65plus,5320,502,0.2,0.017
 age,lower_legis,State House District 53,NA,total_pop,23235,1272,NA,NA
 age,lower_legis,State House District 53,NA,ages00_17,4638,544,0.2,0.021
+age,lower_legis,State House District 53,NA,ages18plus,18597,1150,0.8,0.023
 age,lower_legis,State House District 53,NA,ages65plus,4200,527,0.18,0.02
 age,lower_legis,State House District 54,NA,total_pop,25997,1350,NA,NA
 age,lower_legis,State House District 54,NA,ages00_17,2413,407,0.09,0.015
+age,lower_legis,State House District 54,NA,ages18plus,23584,1288,0.91,0.015
 age,lower_legis,State House District 54,NA,ages65plus,2407,401,0.09,0.015
 age,lower_legis,State House District 55,NA,total_pop,24280,1018,NA,NA
 age,lower_legis,State House District 55,NA,ages00_17,5190,500,0.21,0.019
+age,lower_legis,State House District 55,NA,ages18plus,19090,887,0.79,0.016
 age,lower_legis,State House District 55,NA,ages65plus,4251,373,0.18,0.013
 age,lower_legis,State House District 56,NA,total_pop,23066,1274,NA,NA
 age,lower_legis,State House District 56,NA,ages00_17,4098,556,0.18,0.022
+age,lower_legis,State House District 56,NA,ages18plus,18968,1147,0.82,0.02
 age,lower_legis,State House District 56,NA,ages65plus,3896,444,0.17,0.017
 age,lower_legis,State House District 57,NA,total_pop,24005,1406,NA,NA
 age,lower_legis,State House District 57,NA,ages00_17,5103,688,0.21,0.026
+age,lower_legis,State House District 57,NA,ages18plus,18902,1227,0.79,0.022
 age,lower_legis,State House District 57,NA,ages65plus,4324,578,0.18,0.022
 age,lower_legis,State House District 58,NA,total_pop,22878,1223,NA,NA
 age,lower_legis,State House District 58,NA,ages00_17,4863,688,0.21,0.028
+age,lower_legis,State House District 58,NA,ages18plus,18015,1011,0.79,0.013
 age,lower_legis,State House District 58,NA,ages65plus,4068,380,0.18,0.014
 age,lower_legis,State House District 59,NA,total_pop,24788,1235,NA,NA
 age,lower_legis,State House District 59,NA,ages00_17,3868,514,0.16,0.019
+age,lower_legis,State House District 59,NA,ages18plus,20920,1123,0.84,0.017
 age,lower_legis,State House District 59,NA,ages65plus,4428,463,0.18,0.016
 age,lower_legis,State House District 6,NA,total_pop,23128,1430,NA,NA
 age,lower_legis,State House District 6,NA,ages00_17,4986,662,0.22,0.025
+age,lower_legis,State House District 6,NA,ages18plus,18142,1267,0.78,0.025
 age,lower_legis,State House District 6,NA,ages65plus,3416,459,0.15,0.018
 age,lower_legis,State House District 60,NA,total_pop,23627,1153,NA,NA
 age,lower_legis,State House District 60,NA,ages00_17,4301,483,0.18,0.018
+age,lower_legis,State House District 60,NA,ages18plus,19326,1047,0.82,0.019
 age,lower_legis,State House District 60,NA,ages65plus,4407,461,0.19,0.017
 age,lower_legis,State House District 61,NA,total_pop,26151,1296,NA,NA
 age,lower_legis,State House District 61,NA,ages00_17,5226,615,0.2,0.021
+age,lower_legis,State House District 61,NA,ages18plus,20925,1141,0.8,0.018
 age,lower_legis,State House District 61,NA,ages65plus,4617,453,0.18,0.015
 age,lower_legis,State House District 62,NA,total_pop,23118,1104,NA,NA
 age,lower_legis,State House District 62,NA,ages00_17,4695,466,0.2,0.018
+age,lower_legis,State House District 62,NA,ages18plus,18423,1001,0.8,0.021
 age,lower_legis,State House District 62,NA,ages65plus,4479,500,0.19,0.02
 age,lower_legis,State House District 63,NA,total_pop,22420,1106,NA,NA
 age,lower_legis,State House District 63,NA,ages00_17,3676,449,0.16,0.018
+age,lower_legis,State House District 63,NA,ages18plus,18744,1011,0.84,0.018
 age,lower_legis,State House District 63,NA,ages65plus,5386,527,0.24,0.02
 age,lower_legis,State House District 64,NA,total_pop,24209,1012,NA,NA
 age,lower_legis,State House District 64,NA,ages00_17,4551,466,0.19,0.018
+age,lower_legis,State House District 64,NA,ages18plus,19658,899,0.81,0.015
 age,lower_legis,State House District 64,NA,ages65plus,6240,477,0.26,0.016
 age,lower_legis,State House District 65,NA,total_pop,24962,1253,NA,NA
 age,lower_legis,State House District 65,NA,ages00_17,4974,531,0.2,0.019
+age,lower_legis,State House District 65,NA,ages18plus,19988,1135,0.8,0.021
 age,lower_legis,State House District 65,NA,ages65plus,3419,394,0.14,0.014
 age,lower_legis,State House District 66,NA,total_pop,23547,1071,NA,NA
 age,lower_legis,State House District 66,NA,ages00_17,3936,406,0.17,0.015
+age,lower_legis,State House District 66,NA,ages18plus,19611,991,0.83,0.018
 age,lower_legis,State House District 66,NA,ages65plus,6186,577,0.26,0.021
 age,lower_legis,State House District 67,NA,total_pop,23178,1304,NA,NA
 age,lower_legis,State House District 67,NA,ages00_17,5125,650,0.22,0.025
+age,lower_legis,State House District 67,NA,ages18plus,18053,1130,0.78,0.021
 age,lower_legis,State House District 67,NA,ages65plus,3535,382,0.15,0.014
 age,lower_legis,State House District 68,NA,total_pop,23726,1369,NA,NA
 age,lower_legis,State House District 68,NA,ages00_17,4400,614,0.19,0.024
+age,lower_legis,State House District 68,NA,ages18plus,19326,1224,0.81,0.021
 age,lower_legis,State House District 68,NA,ages65plus,5290,584,0.22,0.021
 age,lower_legis,State House District 69,NA,total_pop,24076,1215,NA,NA
 age,lower_legis,State House District 69,NA,ages00_17,4484,662,0.19,0.026
+age,lower_legis,State House District 69,NA,ages18plus,19592,1018,0.81,0.01
 age,lower_legis,State House District 69,NA,ages65plus,6830,535,0.28,0.017
 age,lower_legis,State House District 7,NA,total_pop,22062,1222,NA,NA
 age,lower_legis,State House District 7,NA,ages00_17,4671,590,0.21,0.024
+age,lower_legis,State House District 7,NA,ages18plus,17391,1070,0.79,0.021
 age,lower_legis,State House District 7,NA,ages65plus,2487,344,0.11,0.014
 age,lower_legis,State House District 70,NA,total_pop,24590,1454,NA,NA
 age,lower_legis,State House District 70,NA,ages00_17,4905,649,0.2,0.024
+age,lower_legis,State House District 70,NA,ages18plus,19685,1301,0.8,0.024
 age,lower_legis,State House District 70,NA,ages65plus,3128,487,0.13,0.018
 age,lower_legis,State House District 71,NA,total_pop,22410,1314,NA,NA
 age,lower_legis,State House District 71,NA,ages00_17,4407,576,0.2,0.023
+age,lower_legis,State House District 71,NA,ages18plus,18003,1181,0.8,0.024
 age,lower_legis,State House District 71,NA,ages65plus,3835,437,0.17,0.017
 age,lower_legis,State House District 72,NA,total_pop,25300,1425,NA,NA
 age,lower_legis,State House District 72,NA,ages00_17,6337,716,0.25,0.025
+age,lower_legis,State House District 72,NA,ages18plus,18963,1232,0.75,0.024
 age,lower_legis,State House District 72,NA,ages65plus,3520,532,0.14,0.02
 age,lower_legis,State House District 73,NA,total_pop,24629,1346,NA,NA
 age,lower_legis,State House District 73,NA,ages00_17,6147,691,0.25,0.025
+age,lower_legis,State House District 73,NA,ages18plus,18482,1155,0.75,0.023
 age,lower_legis,State House District 73,NA,ages65plus,2854,362,0.12,0.013
 age,lower_legis,State House District 74,NA,total_pop,22983,1552,NA,NA
 age,lower_legis,State House District 74,NA,ages00_17,4932,755,0.21,0.029
+age,lower_legis,State House District 74,NA,ages18plus,18051,1356,0.79,0.026
 age,lower_legis,State House District 74,NA,ages65plus,3955,579,0.17,0.022
 age,lower_legis,State House District 75,NA,total_pop,22730,1396,NA,NA
 age,lower_legis,State House District 75,NA,ages00_17,5107,706,0.22,0.028
+age,lower_legis,State House District 75,NA,ages18plus,17623,1205,0.78,0.023
 age,lower_legis,State House District 75,NA,ages65plus,2979,482,0.13,0.02
 age,lower_legis,State House District 76,NA,total_pop,24004,1082,NA,NA
 age,lower_legis,State House District 76,NA,ages00_17,5543,567,0.23,0.021
+age,lower_legis,State House District 76,NA,ages18plus,18461,921,0.77,0.016
 age,lower_legis,State House District 76,NA,ages65plus,3709,364,0.15,0.013
 age,lower_legis,State House District 77,NA,total_pop,23723,1211,NA,NA
 age,lower_legis,State House District 77,NA,ages00_17,4919,639,0.21,0.025
+age,lower_legis,State House District 77,NA,ages18plus,18804,1029,0.79,0.016
 age,lower_legis,State House District 77,NA,ages65plus,4186,397,0.18,0.014
 age,lower_legis,State House District 78,NA,total_pop,24889,1238,NA,NA
 age,lower_legis,State House District 78,NA,ages00_17,5113,608,0.21,0.022
+age,lower_legis,State House District 78,NA,ages18plus,19776,1078,0.79,0.018
 age,lower_legis,State House District 78,NA,ages65plus,3686,376,0.15,0.013
 age,lower_legis,State House District 79,NA,total_pop,24152,1365,NA,NA
 age,lower_legis,State House District 79,NA,ages00_17,5176,722,0.21,0.027
+age,lower_legis,State House District 79,NA,ages18plus,18976,1158,0.79,0.018
 age,lower_legis,State House District 79,NA,ages65plus,3582,412,0.15,0.015
 age,lower_legis,State House District 8,NA,total_pop,23791,1253,NA,NA
 age,lower_legis,State House District 8,NA,ages00_17,4524,524,0.19,0.02
+age,lower_legis,State House District 8,NA,ages18plus,19267,1138,0.81,0.022
 age,lower_legis,State House District 8,NA,ages65plus,4866,546,0.2,0.02
 age,lower_legis,State House District 80,NA,total_pop,22716,1239,NA,NA
 age,lower_legis,State House District 80,NA,ages00_17,4837,564,0.21,0.022
+age,lower_legis,State House District 80,NA,ages18plus,17879,1103,0.79,0.023
 age,lower_legis,State House District 80,NA,ages65plus,4046,493,0.18,0.019
 age,lower_legis,State House District 81,NA,total_pop,23708,1225,NA,NA
 age,lower_legis,State House District 81,NA,ages00_17,4335,475,0.18,0.018
+age,lower_legis,State House District 81,NA,ages18plus,19373,1129,0.82,0.022
 age,lower_legis,State House District 81,NA,ages65plus,5017,540,0.21,0.02
 age,lower_legis,State House District 82,NA,total_pop,25155,1369,NA,NA
 age,lower_legis,State House District 82,NA,ages00_17,4904,648,0.19,0.023
+age,lower_legis,State House District 82,NA,ages18plus,20251,1206,0.81,0.019
 age,lower_legis,State House District 82,NA,ages65plus,4412,518,0.18,0.018
 age,lower_legis,State House District 83,NA,total_pop,24970,1385,NA,NA
 age,lower_legis,State House District 83,NA,ages00_17,5366,716,0.21,0.026
+age,lower_legis,State House District 83,NA,ages18plus,19604,1186,0.79,0.019
 age,lower_legis,State House District 83,NA,ages65plus,4323,507,0.17,0.018
 age,lower_legis,State House District 84,NA,total_pop,21205,1210,NA,NA
 age,lower_legis,State House District 84,NA,ages00_17,5453,679,0.26,0.028
+age,lower_legis,State House District 84,NA,ages18plus,15752,1002,0.74,0.021
 age,lower_legis,State House District 84,NA,ages65plus,2739,356,0.13,0.015
 age,lower_legis,State House District 85,NA,total_pop,23851,1303,NA,NA
 age,lower_legis,State House District 85,NA,ages00_17,4420,604,0.19,0.023
+age,lower_legis,State House District 85,NA,ages18plus,19431,1155,0.81,0.019
 age,lower_legis,State House District 85,NA,ages65plus,4628,551,0.19,0.021
 age,lower_legis,State House District 86,NA,total_pop,23221,1201,NA,NA
 age,lower_legis,State House District 86,NA,ages00_17,4379,569,0.19,0.022
+age,lower_legis,State House District 86,NA,ages18plus,18842,1058,0.81,0.018
 age,lower_legis,State House District 86,NA,ages65plus,4760,525,0.2,0.02
 age,lower_legis,State House District 87,NA,total_pop,24179,1194,NA,NA
 age,lower_legis,State House District 87,NA,ages00_17,4952,577,0.2,0.022
+age,lower_legis,State House District 87,NA,ages18plus,19227,1045,0.8,0.018
 age,lower_legis,State House District 87,NA,ages65plus,5565,515,0.23,0.018
 age,lower_legis,State House District 88,NA,total_pop,24691,1319,NA,NA
 age,lower_legis,State House District 88,NA,ages00_17,3002,461,0.12,0.018
+age,lower_legis,State House District 88,NA,ages18plus,21689,1236,0.88,0.017
 age,lower_legis,State House District 88,NA,ages65plus,4420,514,0.18,0.018
 age,lower_legis,State House District 89,NA,total_pop,23642,1358,NA,NA
 age,lower_legis,State House District 89,NA,ages00_17,5615,756,0.24,0.029
+age,lower_legis,State House District 89,NA,ages18plus,18027,1128,0.76,0.019
 age,lower_legis,State House District 89,NA,ages65plus,4339,468,0.18,0.017
 age,lower_legis,State House District 9,NA,total_pop,23613,1338,NA,NA
 age,lower_legis,State House District 9,NA,ages00_17,5281,655,0.22,0.025
+age,lower_legis,State House District 9,NA,ages18plus,18332,1167,0.78,0.023
 age,lower_legis,State House District 9,NA,ages65plus,4141,568,0.18,0.022
 age,lower_legis,State House District 90,NA,total_pop,22780,1044,NA,NA
 age,lower_legis,State House District 90,NA,ages00_17,3947,449,0.17,0.018
+age,lower_legis,State House District 90,NA,ages18plus,18833,942,0.83,0.017
 age,lower_legis,State House District 90,NA,ages65plus,5331,522,0.23,0.02
 age,lower_legis,State House District 91,NA,total_pop,21627,1179,NA,NA
 age,lower_legis,State House District 91,NA,ages00_17,4557,568,0.21,0.024
+age,lower_legis,State House District 91,NA,ages18plus,17070,1034,0.79,0.021
 age,lower_legis,State House District 91,NA,ages65plus,3865,423,0.18,0.017
 age,lower_legis,State House District 92,NA,total_pop,25769,1385,NA,NA
 age,lower_legis,State House District 92,NA,ages00_17,5561,588,0.22,0.02
+age,lower_legis,State House District 92,NA,ages18plus,20208,1254,0.78,0.024
 age,lower_legis,State House District 92,NA,ages65plus,2994,364,0.12,0.013
 age,lower_legis,State House District 93,NA,total_pop,24440,1388,NA,NA
 age,lower_legis,State House District 93,NA,ages00_17,5612,759,0.23,0.028
+age,lower_legis,State House District 93,NA,ages18plus,18828,1162,0.77,0.019
 age,lower_legis,State House District 93,NA,ages65plus,1957,354,0.08,0.014
 age,lower_legis,State House District 94,NA,total_pop,22962,1320,NA,NA
 age,lower_legis,State House District 94,NA,ages00_17,4659,628,0.2,0.025
+age,lower_legis,State House District 94,NA,ages18plus,18303,1161,0.8,0.021
 age,lower_legis,State House District 94,NA,ages65plus,1810,300,0.08,0.012
 age,lower_legis,State House District 95,NA,total_pop,24447,1405,NA,NA
 age,lower_legis,State House District 95,NA,ages00_17,7556,790,0.31,0.027
+age,lower_legis,State House District 95,NA,ages18plus,16891,1162,0.69,0.026
 age,lower_legis,State House District 95,NA,ages65plus,2496,420,0.1,0.016
 age,lower_legis,State House District 96,NA,total_pop,23485,1513,NA,NA
 age,lower_legis,State House District 96,NA,ages00_17,3387,606,0.14,0.024
+age,lower_legis,State House District 96,NA,ages18plus,20098,1386,0.86,0.021
 age,lower_legis,State House District 96,NA,ages65plus,1888,275,0.08,0.011
 age,lower_legis,State House District 97,NA,total_pop,23589,1545,NA,NA
 age,lower_legis,State House District 97,NA,ages00_17,5051,738,0.21,0.028
+age,lower_legis,State House District 97,NA,ages18plus,18538,1357,0.79,0.026
 age,lower_legis,State House District 97,NA,ages65plus,4431,568,0.19,0.021
 age,lower_legis,State House District 98,NA,total_pop,23512,1166,NA,NA
 age,lower_legis,State House District 98,NA,ages00_17,4787,567,0.2,0.022
+age,lower_legis,State House District 98,NA,ages18plus,18725,1019,0.8,0.018
 age,lower_legis,State House District 98,NA,ages65plus,6597,630,0.28,0.023
 age,lower_legis,State House District 99,NA,total_pop,23568,1244,NA,NA
 age,lower_legis,State House District 99,NA,ages00_17,4221,601,0.18,0.024
+age,lower_legis,State House District 99,NA,ages18plus,19347,1089,0.82,0.016
 age,lower_legis,State House District 99,NA,ages65plus,4709,470,0.2,0.017
 sex,1_us,United States,2022,total_pop,331097593,11464,NA,NA
 sex,1_us,United States,2022,male,164200298,8084,0.5,0

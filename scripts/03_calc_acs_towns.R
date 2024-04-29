@@ -22,13 +22,13 @@ out$total_pop <- fetch$total_pop %>%
   select(level, name, year, group, estimate, moe)
 
 # SEX & AGE
-# pop under 18, 65+, male, female
+# pop under 18, 65+, male, female, 18+ got lost somewhere
 # age
 out$age <- fetch$sex_by_age %>%
   separate_acs(into = c("sex", "group"), drop_total = TRUE, fill = "right") %>%
   filter(!is.na(group)) %>%
   # show_uniq(group) %>%
-  add_grps_moe(list(total_pop = 1:23, ages00_17 = 1:4, ages65plus = 18:23)) %>%
+  add_grps_moe(list(total_pop = 1:23, ages00_17 = 1:4, ages18plus = 5:23, ages65plus = 18:23)) %>%
   calc_shares_moe()
 
 # sex
