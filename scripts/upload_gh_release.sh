@@ -7,4 +7,6 @@ if ! gh release view dist; then
 fi
 gh release upload dist "$town" "$nhood" --clobber
 
-gh release view dist
+gh release view dist \
+  --json id,tagName,assets,createdAt,url > \
+  .uploaded.json

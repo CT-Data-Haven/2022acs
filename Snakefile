@@ -17,6 +17,8 @@ rule testvars:
 
 
 rule readme:
+    input:
+        'Snakefile',
     output:
         "README.md",
     script:
@@ -30,14 +32,16 @@ rule readme:
 #         r_with_args("{input.script}")
 rule download_meta:
     output:
-        touch('.meta_downloaded'),
         reg_puma = 'utils/reg_puma_list.rds',
+        # flag = '.meta_downloaded.json',
         # headings = 'utils/indicator_headings.txt',
     script:
         'scripts/00a_download_meta.sh'
 
 rule meta:
     input:
+        # rules.download_meta.output.flag,
+        rules.download_meta.output.reg_puma,
         script = 'scripts/00_make_meta.R',
     output:
         web=f"utils/{year}_website_meta.rds",
@@ -101,7 +105,7 @@ rule prep_distro:
         rules.calc_cws.output.cws_basic,
         script = 'scripts/05_assemble_for_distro.R',
     output:
-        f"website/5year{year}town_profile_expanded_CWS.csv",
+        website_csv = f"website/5year{year}town_profile_expanded_CWS.csv",
     shell:
         r_with_args("{input.script}")
 
@@ -112,7 +116,7 @@ rule release:
         nhood = rules.calc_acs_nhoods.output.acs_city,
         script = 'scripts/upload_gh_release.sh',
     output:
-        touch('.uploaded'),
+        flag = '.uploaded.json',
     shell:
         'bash {input.script} {input.town} {input.nhood}'
 
@@ -130,15 +134,10 @@ rule all:
         rules.readme.output,
         rules.distro.input,
         rules.calc_acs_towns.output.acs_town,
+        rules.release.output.flag,
         # expand('scripts/{script}.R', script = glob_wildcards('scripts/{script}.R').script)
     default_target: True
 
-
-rule list_rules:
-    run:
-        rule_names = [f'* { rule }' for rule in list(rules._rules.keys())]
-        bullets = '\n'.join(rule_names)
-        print(f'\n----- RULES -----\n{bullets}\n')
 
 #### CLEANUP -----
 rule clean:
